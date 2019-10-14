@@ -15,9 +15,10 @@ Assessment will be based on exercises and projects through three in-course asses
 
 
 **Links**
-*1. [Course Schedule]()*
 
-*2. Introduction, Fablab Safety & Tools*
+*1. [Course Schedule](files/01-schedule.md)*
+
+*2. [Introduction, Fablab Safety & Tools](files/02-intro_safety.md)*
 
 *3. Project Management, Web Development & Version Control*
 
