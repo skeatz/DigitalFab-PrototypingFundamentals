@@ -14,10 +14,18 @@ Assessment will be based on exercises and projects through three in-course asses
 3.	CA3  Summative Project	50%
 
 **1. Course Schedule**
+
 **2. Introduction, Fablab Safety & Tools**
+
 **3. Project Management, Web Development & Version Control**
+
 **4. Computer Aided Design**
+
 **5. 3D Printing**
+
 **6. Computer Controlled Cutting**
+
 **7. Embedded Programming w/Arduino**
+
 **8. Project**
+
