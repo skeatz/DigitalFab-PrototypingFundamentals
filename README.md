@@ -13,19 +13,21 @@ Assessment will be based on exercises and projects through three in-course asses
 2.	CA2  Fablab (Digital Fabrication) Skills	30%
 3.	CA3  Summative Project	50%
 
-**1. Course Schedule**
 
-**2. Introduction, Fablab Safety & Tools**
+**Links**
+*1. [Course Schedule]()*
 
-**3. Project Management, Web Development & Version Control**
+*2. Introduction, Fablab Safety & Tools*
 
-**4. Computer Aided Design**
+*3. Project Management, Web Development & Version Control*
 
-**5. 3D Printing**
+*4. Computer Aided Design*
 
-**6. Computer Controlled Cutting**
+*5. 3D Printing*
 
-**7. Embedded Programming w/Arduino**
+*6. Computer Controlled Cutting*
 
-**8. Project**
+*7. Embedded Programming w/Arduino*
+
+*8. Project*
 
