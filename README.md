@@ -14,7 +14,7 @@ Assessment will be based on exercises and projects through three in-course asses
 3.	CA3  Summative Project	50%
 
 
-**Links**
+**Schedule & Notes**
 
 *1. [Course Schedule](files/01-schedule.md)*
 
@@ -32,3 +32,8 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *8. Project*
 
+
+**Tutorials & Links**
+*1. [Tutorials](files/00-tutorials.md)*
+
+*2. [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)*
