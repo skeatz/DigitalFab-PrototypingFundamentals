@@ -18,6 +18,7 @@
    * [HTML5 cheatsheet](https://websitesetup.org/html5-cheat-sheet/)
    * [JavaScript cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
    * [CSS cheatsheet](https://websitesetup.org/css3-cheat-sheet/)
+   * [CSS Zen Garden](http://www.csszengarden.com/)
 3. Web Editors
    * [Atom](https://atom.io/), [Brackets](http://brackets.io/)
    * [SublimeText](https://www.sublimetext.com/)
