@@ -26,5 +26,21 @@
      - Mac: [MacDown](https://macdown.uranusjr.com/)
      - Linux: [ghostwriter](https://wereturtle.github.io/ghostwriter/)
 4. Version Control
-
-5. Assignment
+   * [CVS](https://www.nongnu.org/cvs/), [Subversion](http://subversion.apache.org/), [Mercurial](https://www.mercurial-scm.org/)
+   * [Git](https://www.freecodecamp.org/news/what-is-git-and-how-to-use-it-c341b049ae61/)
+   * [Git in 15 mins](https://www.youtube.com/watch?v=USjZcfj8yxE)
+   * [Git in 20 mins](https://www.youtube.com/watch?v=IHaTbJPdB-s)
+   * [Learn Basics of Git](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
+   * [Intro to Git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
+   * [Pro Git](https://git-scm.com/book/en/v2)
+5. Blogs, Wikis and Content Management Systems
+   * [GitBook](https://www.gitbook.com/)
+   * [DocuWiki](https://www.dokuwiki.org/dokuwiki)
+   * [WordPress](https://wordpress.com/)
+   * [Drupal](https://www.drupal.org/home)
+   * [Moodle](https://moodle.org/)
+   * [Wix](https://www.wix.com/)
+   * [Blogger](https://www.blogger.com/about/)
+6. Assignment
+   * Work through a Git tutorial
+   * Build a personal website, describing yourself and a possible module project
