@@ -9,7 +9,7 @@
    * Document as you work
    * Mythical man-month
 2. Web Development
-   * (W3 Schools](https://www.w3schools.com/)
+   * [W3 Schools](https://www.w3schools.com/)
    * [Jake Wright HTML in 12 mins](https://www.youtube.com/watch?v=bWPMSSsVdPk)
    * [Jake Wright More HTML in 12 mins](https://www.youtube.com/watch?v=KJ13lX20FqU)
    * [HTML5 cheatsheet]()
