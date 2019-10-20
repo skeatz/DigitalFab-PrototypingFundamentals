@@ -20,7 +20,7 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *2. [Introduction, Fablab Safety & Tools](files/02-intro_safety.md)*
 
-*3. Project Management, Web Development & Version Control*
+*3. [Project Management, Web Development & Version Control](files/03-projmgmt.md)*
 
 *4. Computer Aided Design*
 
