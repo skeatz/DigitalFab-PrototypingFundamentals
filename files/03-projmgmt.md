@@ -33,6 +33,7 @@
    * [Learn Basics of Git](https://www.freecodecamp.org/news/learn-the-basics-of-git-in-under-10-minutes-da548267cc91/)
    * [Intro to Git](https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners)
    * [Pro Git](https://git-scm.com/book/en/v2)
+   * [Git cheatsheet](https://github.github.com/training-kit/downloads/github-git-cheat-sheet.pdf)
 5. Blogs, Wikis and Content Management Systems
    * [GitBook](https://www.gitbook.com/)
    * [DocuWiki](https://www.dokuwiki.org/dokuwiki)
