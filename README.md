@@ -9,9 +9,12 @@ Students have to demonstrate their ability to work individually and in groups to
 
 **Methods of Assessment**
 Assessment will be based on exercises and projects through three in-course assessments (ICA) as follows:
-1.	CA1 Documentation/Website	20%
-2.	CA2  Fablab (Digital Fabrication) Skills	30%
-3.	CA3  Summative Project	50%
+
+|S/No |Item |Description |Weightage |
+|-----|-----|------------|----------|
+| 1	|CA1 |Documentation/Website	|20% |
+| 2	|CA2 |Fablab (Digital Fabrication) Skills	|30% |
+| 3	|CA3 |Summative Project	|50% |
 
 
 **Schedule & Notes**
