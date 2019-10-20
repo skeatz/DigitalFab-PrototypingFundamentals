@@ -1,4 +1,4 @@
-#Project Management, Web Development & Version Control
+**Project Management, Web Development & Version Control**
 1. Project Management Principles
    * Triage: critical, serious, dying
    * Demand- vs supply-side time management
