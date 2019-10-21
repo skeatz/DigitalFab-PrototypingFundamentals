@@ -9,6 +9,7 @@
    * Document as you work
    * [Mythical man-month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
 2. Web Development
+   * [HTML, CSS, JavaScript](https://blog.hubspot.com/marketing/web-design-html-css-javascript)
    * [W3 Schools](https://www.w3schools.com/)
    * [Mozilla Developer Network](https://developer.mozilla.org/en-US/)
    * [Learn HTML in 12 mins](https://www.youtube.com/watch?v=bWPMSSsVdPk)
