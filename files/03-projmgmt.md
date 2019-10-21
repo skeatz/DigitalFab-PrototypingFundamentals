@@ -15,6 +15,7 @@
    * [Learn HTML in 12 mins](https://www.youtube.com/watch?v=bWPMSSsVdPk)
    * [Learn More HTML in 12 mins](https://www.youtube.com/watch?v=KJ13lX20FqU)
    * [Learn CSS in 12 mins](https://www.youtube.com/watch?v=0afZj1G0BIE)
+   * [Learn CSS in 20 min](https://www.youtube.com/watch?v=1PnVor36_40)
    * [Learn JavaScript in 12 mins](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
    * [HTML5 cheatsheet](https://websitesetup.org/html5-cheat-sheet/)
    * [JavaScript cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
