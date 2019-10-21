@@ -48,6 +48,6 @@
    * [Blogger](https://www.blogger.com/about/)
 6. Assignment
    * Work through a Git tutorial
-   * Build a personal website, describing yourself and a possible module project
+   * Build a personal website, describing yourself and a possible module project. You must document the process(es) used in creating your website, not just the final website.
    
    ![Basic webpage](../images/03_basic-webpage.png)
