@@ -14,4 +14,4 @@ Introduction to Digital Fabrication, Safety & Tools
 4. Tools Assignment
    * Using only hand and/or power tools in the Fablab, make a small, portable smartphone stand out of cardboard, wood or acrylic.
    
-   ![Tools assignment](/images/01_tools-assignment.png)
+   ![Tools assignment](../images/01_tools-assignment.png)
