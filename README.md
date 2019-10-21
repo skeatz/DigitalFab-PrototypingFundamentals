@@ -13,8 +13,8 @@ Assessment will be based on exercises and projects through three in-course asses
 |S/No |Item |Description |Weightage |
 |-----|-----|------------|----------|
 | 1	|CA1 |Documentation/Website	|20% |
-| 2	|CA2 |Fablab (Digital Fabrication) Skills	|30% |
-| 3	|CA3 |Summative Project	|50% |
+| 2	|CA2 |Fablab (Digital Fabrication) Skills	|40% |
+| 3	|CA3 |Summative Project	|40% |
 
 
 **Schedule & Notes**
