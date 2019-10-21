@@ -4,6 +4,7 @@
 
 *Resources*
 * [MAS863: How To Make Almost Anything](http://fab.cba.mit.edu/classes/MAS.863/)
+* [Web Colors](https://www.rapidtables.com/web/color/index.html)
 
 *Tutorials*
 * Git
