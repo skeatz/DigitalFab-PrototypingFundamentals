@@ -48,3 +48,5 @@
 6. Assignment
    * Work through a Git tutorial
    * Build a personal website, describing yourself and a possible module project
+   
+   ![Basic webpage](../images/03_basic-webpage.png)
