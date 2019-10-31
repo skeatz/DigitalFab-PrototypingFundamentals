@@ -1,0 +1,50 @@
+# Computer Aided Design (CAD)
+* **2D Raster**
+  * [GIMP](https://www.gimp.org/)
+  * [Photoshop](https://www.adobe.com/products/photoshop.html)
+  * [Krita](https://krita.org/en/)
+  * [MyPaint](http://mypaint.org/)
+  * [ImageMagick](https://imagemagick.org/index.php)
+    * [encoding](http://academy.cba.mit.edu/classes/computer_design/image.html)
+* **2D Vector**
+  * [Inkscape](https://inkscape.org/)
+    * [Shapes, boolean, clone](http://academy.cba.mit.edu/classes/computer_design/inkscape.mp4)
+  * [CorelDraw](https://www.coreldraw.com/en/)
+  * [Illustrator](https://www.adobe.com/products/illustrator.html)
+* **3D**
+  * [Fusion 360](), [Inventor]()
+    * [Autodesk Learn Fusion 360](https://f360ap.autodesk.com/courses)
+    * [Warwick U Fusion 360](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
+    * [ProductDesignOnline](https://productdesignonline.com/fusion-360/)
+  * [TinkerCAD](https://www.tinkercad.com/)
+  * [Rhino](https://www.rhino3d.com/)
+    * [The Zoo](https://wiki.mcneel.com/zoo/home), [Grasshopper](https://www.rhino3d.com/6/new/grasshopper), [Flamingo](https://wiki.mcneel.com/flamingo/home), [Brazil](https://wiki.mcneel.com/brazil/home), [Penguin](https://wiki.mcneel.com/penguin/home)
+    * [Rhino3D Tutorials](https://www.rhino3d.com/tutorials)
+    * [Rhino3D U_User Guide](https://rhino3du.ning.com/page/basic-tutorials-in-the-user-guide)
+    * [Grasshopper_Beginner's Guide](https://blog.ramboll.com/rcd/tutorials/a-beginners-guide-to-visual-scripting-with-grasshopper.html)
+    * [Graphicsoft Rhino Tutorial](https://education.graphisoft.com/mod/book/view.php?id=155&chapterid=1939)
+  * [SolidWorks]()
+  * [OpenSCAD]()
+    * [OpenSCAD Cheatsheet]()
+    * [Beginner's Tutorial](http://edutechwiki.unige.ch/en/OpenScad_beginners_tutorial)
+    * [All3DP Tutorial](https://all3dp.com/2/openscad-tutorial-for-beginners-5-easy-steps/)
+  * SketchUp
+  * FreeCAD
+  * Blender
+  * Sculptris
+* **Audio/Video**
+  * Kdenlive
+  * Audacity
+  * Premier
+  * ffmpeg, avconv
+  * HTML5
+    * Encoding: handbrake, video
+* **(Interchange) File Formats**
+  * DXF
+  * OBJ
+  * STL
+  * 3MF
+  * STEP
+*Assignment:*
+* Model (2D raster, vector, 3D) a possible final project. 
+* Compress your images, videos. Post them on your site.
