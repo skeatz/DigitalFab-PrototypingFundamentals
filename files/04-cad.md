@@ -31,28 +31,30 @@
     * [Rhino3D U_User Guide](https://rhino3du.ning.com/page/basic-tutorials-in-the-user-guide)
     * [Grasshopper_Beginner's Guide](https://blog.ramboll.com/rcd/tutorials/a-beginners-guide-to-visual-scripting-with-grasshopper.html)
     * [Graphicsoft Rhino Tutorial](https://education.graphisoft.com/mod/book/view.php?id=155&chapterid=1939)
-  * [SolidWorks]()
-  * [OpenSCAD]()
-    * [OpenSCAD Cheatsheet]()
+  * [SolidWorks](https://www.solidworks.com/)
+  * [OpenSCAD](http://www.openscad.org/)
+    * [OpenSCAD Cheatsheet](https://www.openscad.org/cheatsheet/)
     * [Beginner's Tutorial](http://edutechwiki.unige.ch/en/OpenScad_beginners_tutorial)
     * [All3DP Tutorial](https://all3dp.com/2/openscad-tutorial-for-beginners-5-easy-steps/)
-  * SketchUp
-  * FreeCAD
-  * Blender
-  * Sculptris
+    * [OpenHome](https://openhome.cc/eGossip/OpenSCAD/)
+    * [Thingiverse - Customizable](https://www.thingiverse.com/search?q=customizable&dwh=295dbaef526c250)
+  * [SketchUp]()
+  * [FreeCAD]()
+  * [Blender]()
+  * [Sculptris]()
 * **Audio/Video**
-  * Kdenlive
-  * Audacity
-  * Premier
-  * ffmpeg, avconv
-  * HTML5
-    * Encoding: handbrake, video
+  * [Kdenlive]()
+  * [Audacity]()
+  * [Premier]()
+  * [ffmpeg](), [avconv]()
+  * [HTML5]()
+    * Encoding: [handbrake](), [video]()
 * **(Interchange) File Formats**
-  * DXF
-  * OBJ
-  * STL
-  * 3MF
-  * STEP
+  * [DXF]()
+  * [OBJ]()
+  * [STL]()
+  * [3MF]()
+  * [STEP]()
 *Assignment:*
 * Model (2D raster, vector, 3D) a possible final project. 
 * Compress your images, videos. Post them on your site.
