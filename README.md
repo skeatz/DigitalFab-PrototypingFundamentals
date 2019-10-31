@@ -25,11 +25,11 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *3. [Project Management, Web Development & Version Control](files/03-projmgmt.md)*
 
-*4. Computer Aided Design*
+*4. [Computer Aided Design](files/04-cad.md)*
 
-*5. 3D Printing*
+*5. [3D Printing & Scanning](files/05-3dprint.md)*
 
-*6. Computer Controlled Cutting*
+*6. [Computer Controlled Cutting](files/06-lasercutting.md)*
 
 *7. Embedded Programming w/Arduino*
 
