@@ -55,6 +55,11 @@
   * [STL]()
   * [3MF]()
   * [STEP]()
-*Assignment:*
-* Model (2D raster, vector, 3D) a possible final project. 
+  
+**Assignment:**
+* Model (2D raster, vector, 3D) a possible final project.
+  * Document use of 2D raster software: scale, crop, resize
+  * Document use of 2D vector software
+  * Document use of 3D design software to model a possible final project
 * Compress your images, videos. Post them on your site.
+  * **Note** - you need to include your original design files in your documentation for this assignment.
