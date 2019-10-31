@@ -14,10 +14,13 @@
 * **2D Vector**
   * [Inkscape](https://inkscape.org/)
     * [Shapes, boolean, clone](http://academy.cba.mit.edu/classes/computer_design/inkscape.mp4)
+    * [Tutorials](https://inkscape.org/learn/tutorials/)
+    * [Basic Tutorial](https://inkscape.org/en/doc/tutorials/basic/tutorial-basic.html)
+    * [Video Tutorials](https://inkscape.org/learn/videos/)
   * [CorelDraw](https://www.coreldraw.com/en/)
   * [Illustrator](https://www.adobe.com/products/illustrator.html)
 * **3D**
-  * [Fusion 360](), [Inventor]()
+  * [Fusion 360](https://www.autodesk.com/products/fusion-360/students-teachers-educators), [Inventor](https://www.autodesk.com.sg/products/inventor/overview)
     * [Autodesk Learn Fusion 360](https://f360ap.autodesk.com/courses)
     * [Warwick U Fusion 360](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
     * [ProductDesignOnline](https://productdesignonline.com/fusion-360/)
