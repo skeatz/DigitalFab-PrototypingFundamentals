@@ -1,7 +1,12 @@
 # Computer Aided Design (CAD)
 * **2D Raster**
   * [GIMP](https://www.gimp.org/)
+    * [Tutorial](https://www.gimp.org/tutorials/)
+    * [Gimp Quickies](https://www.gimp.org/tutorials/GIMP_Quickies/)
+    * [Gimp Basics](https://www.gimp.org/tutorials/)
   * [Photoshop](https://www.adobe.com/products/photoshop.html)
+    * [Tutorial](https://helpx.adobe.com/photoshop/tutorials.html)
+    * [User guide](https://helpx.adobe.com/photoshop/user-guide.html)
   * [Krita](https://krita.org/en/)
   * [MyPaint](http://mypaint.org/)
   * [ImageMagick](https://imagemagick.org/index.php)
