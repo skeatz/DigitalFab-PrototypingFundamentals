@@ -24,6 +24,8 @@
     * [Autodesk Learn Fusion 360](https://f360ap.autodesk.com/courses)
     * [Warwick U Fusion 360](https://warwick.ac.uk/fac/sci/wmg/about/outreach/resources/fusion_tutorials/)
     * [ProductDesignOnline](https://productdesignonline.com/fusion-360/)
+      * [Fusion 360 User Interface](https://www.youtube.com/watch?v=sZwM87-nsYA)
+      * [Fusion 360 for Absolute Beginners](https://www.youtube.com/watch?v=qvrHuaHhqHI)
   * [TinkerCAD](https://www.tinkercad.com/)
   * [Rhino](https://www.rhino3d.com/)
     * [The Zoo](https://wiki.mcneel.com/zoo/home), [Grasshopper](https://www.rhino3d.com/6/new/grasshopper), [Flamingo](https://wiki.mcneel.com/flamingo/home), [Brazil](https://wiki.mcneel.com/brazil/home), [Penguin](https://wiki.mcneel.com/penguin/home)
