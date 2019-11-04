@@ -12,3 +12,4 @@
   * [Fab Academy Recition: Version Control](http://fab.academany.org/2019/recitations/version-control/index.html#1)
   * [Git-it: Desktop app to learn Git](http://jlord.us/git-it/)  
 * Web Development
+  * [Website template (zipped)](resources/website-template.zip)
