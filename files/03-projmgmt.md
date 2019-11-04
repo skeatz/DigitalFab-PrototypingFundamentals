@@ -52,4 +52,4 @@
    
    ![Basic webpage](../images/03_basic-webpage.png)
    
-   [Sample Website Template](https://github.com/skeatz/DigitalFab-PrototypingFundamentals/tree/master/files/resources/web-template)
+   [Sample Website Template (zipped)](resources/website-template.zip)
