@@ -51,3 +51,5 @@
    * Build a personal website, describing yourself and a possible module project. You must document the process(es) used in creating your website, not just the final website.
    
    ![Basic webpage](../images/03_basic-webpage.png)
+   
+   [Sample Website Template](https://github.com/skeatz/DigitalFab-PrototypingFundamentals/tree/master/files/resources/web-template)
