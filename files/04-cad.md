@@ -26,6 +26,8 @@
     * [ProductDesignOnline](https://productdesignonline.com/fusion-360/)
       * [Fusion 360 User Interface](https://www.youtube.com/watch?v=sZwM87-nsYA)
       * [Fusion 360 for Absolute Beginners](https://www.youtube.com/watch?v=qvrHuaHhqHI)
+    * [Fusion 360 Exercises](https://www.youtube.com/channel/UC5jIedWB0-o9Zq0kZPmHeEw/videos)
+    * [Fusion 360 Practice Exercises](https://en.calameo.com/read/004987257fab6b0564037)
   * [TinkerCAD](https://www.tinkercad.com/)
   * [Rhino](https://www.rhino3d.com/)
     * [The Zoo](https://wiki.mcneel.com/zoo/home), [Grasshopper](https://www.rhino3d.com/6/new/grasshopper), [Flamingo](https://wiki.mcneel.com/flamingo/home), [Brazil](https://wiki.mcneel.com/brazil/home), [Penguin](https://wiki.mcneel.com/penguin/home)
