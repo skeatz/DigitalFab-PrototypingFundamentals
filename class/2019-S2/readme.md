@@ -30,6 +30,6 @@
 
 * [THOU JIA LE](https://thoujiale.github.io/DigitalFab-Web/intext.html)
 
-[WAN FATIN FARZANA]()
+[WAN FATIN FARZANA](https://1fatin.github.io/Fatin-Town/)
 
 * [ZAMORA AIRIEZ](https://airiez28.github.io/AiriezDFab/)
