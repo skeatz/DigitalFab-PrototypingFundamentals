@@ -6,9 +6,9 @@
 
 * [JEANINE KOH](https://kjeanineeee.github.io/jeanine-web/)
 
-[KOH YE CHUN]()
+* [KOH YE CHUN](https://kohyechun.github.io/YE-CHUN/)
 
-[LAI CHUEN SEN]()
+* [FRASER LAI CHUEN SEN](https://fraser-lai.github.io/dfab-web/Fraser.html)
 
 * [LEE KUN TENG](https://chewykaya.github.io/K-Webz/)
 
@@ -30,6 +30,6 @@
 
 * [THOU JIA LE](https://thoujiale.github.io/DigitalFab-Web/intext.html)
 
-[WAN FATIN FARZANA](https://1fatin.github.io/Fatin-Town/)
+* [WAN FATIN FARZANA](https://1fatin.github.io/Fatin-Town/)
 
 * [ZAMORA AIRIEZ](https://airiez28.github.io/AiriezDFab/)
