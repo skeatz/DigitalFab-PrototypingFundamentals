@@ -12,7 +12,7 @@
 
 * [LEE KUN TENG](https://chewykaya.github.io/K-Webz/)
 
-[LIM TERRY]()
+* [LIM TERRY](https://terry3609.github.io/Dfab-Web/Index.html)
 
 * [LIN ZHAO](https://boredsial.github.io/lin-web/)
 
