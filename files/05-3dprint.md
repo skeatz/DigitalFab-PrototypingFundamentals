@@ -1,20 +1,19 @@
 # 3D Printing
-### Manufacturing Technologies
-* [Additive](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/)
-* [Subtractive]()
-* Cutting
-* Forming
+### [Manufacturing Processes](https://en.wikipedia.org/wiki/List_of_manufacturing_processes)
+* [Additive vs Subtractive](https://all3dp.com/2/additive-vs-subtractive-manufacturing-simply-explained/)
+* [Cutting](https://en.wikipedia.org/wiki/Cutting)
+* [Forming](https://www.corrosionpedia.com/definition/4700/forming)
 
-### Motivations/Advantages
+### [Motivations/Advantages](https://www.3dhubs.com/knowledge-base/advantages-3d-printing/)
 * Design freedom
 * Closed system
 * Quick production
 * Customization
 
 ### 3D Printing Hall of Fame
-* Chuck Hall
-* Scott Crump
-* Adam Bowyer
+* [Chuck Hull](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/)
+* [Scott Crump](https://www.computerhope.com/people/s_scott_crump.htm)
+* [Adrian Bowyer](https://www.revolvy.com/page/Adrian-Bowyer)
 
 ### Materials
 * PLA
@@ -111,6 +110,10 @@
 * Generate STL, OBJ, 3MF
 * Slicer
 * gcode
+
+### Guides
+* [How to design for FFF 3D printing](https://kea-makerlab.github.io/hello/assets/Ultimaker-guide-how-to-design-for-fff-3d-printing.pdf)
+
 
 ### Assignment
 * Group: test the design rules for a 3D printer: support, overhang, infill, clearance, etc
