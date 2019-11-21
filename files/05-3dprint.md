@@ -1,7 +1,7 @@
 # 3D Printing
 ### Manufacturing Technologies
-* Additive
-* Subtractive
+* [Additive](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/)
+* [Subtractive]()
 * Cutting
 * Forming
 
@@ -59,29 +59,28 @@
 * electron beam melting (EBM)
 
 ### Machines
-* Makerbot, Ultimaker
-* Prusa
-* Sindoh
-* Formlabs
-* Stratasys
-* 3D Systems
+* [Makerbot](https://www.makerbot.com/), [Ultimaker](https://ultimaker.com/)
+* [Prusa](https://www.prusa3d.com/)
+* [Sindoh](http://3dprinter.sindoh.com/)
+* [Formlabs](http://formlabs.com/)
+* [Stratasys](https://www.stratasys.com/)
+* [3D Systems](https://www.3dsystems.com/)
 
 ### Service Bureaus
-* Shapeways
-* iMaterialise
-* Sculpteo
-* Ponoko
-* 3ERP
+* [Shapeways](https://www.shapeways.com/)
+* [iMaterialise](https://i.materialise.com/en)
+* [Sculpteo](https://www.sculpteo.com/en/)
+* [3ERP](https://www.3erp.com/)
 
 ### Materials Suppliers
-* Proto-pasta
-* MatterHackers
-* NinjaTek
+* [Proto-pasta](https://www.proto-pasta.com/)
+* [MatterHackers](https://www.matterhackers.com/)
+* [NinjaTek](https://ninjatek.com/)
 
 ### File Formats
-* STL
-* OBJ
-* 3MF
+* [STL](https://all3dp.com/what-is-stl-file-format-extension-3d-printing/)
+* [OBJ](http://usa.autodesk.com/alias/)
+* [3MF](http://www.3mf.io/)
 
 ### Design Software
 * Fusion 360
@@ -94,6 +93,7 @@
 ### Slicer Software
 * Cura
 * Slic3r
+* Simplify3D
 
 ### Mesh Editing
 * Meshlab
