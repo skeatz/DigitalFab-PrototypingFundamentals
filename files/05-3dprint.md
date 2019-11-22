@@ -144,6 +144,11 @@
 * [Introduction to 3D printing](05 3D Printed Tool.pdf)
 
 ### Assignment
-* Group: test the design rules for a 3D printer: support, overhang, infill, clearance, etc
+* Group: 
+  * test the design rules for a 3D printer: bridging, overhang, infill density, clearance, etc
+  * 4 members to a group, each person to design model to test one feature of the 3D printer
+  * Document your contribution & link to the pages of your other group members
 * Individual: design and 3D print an object (small, few cm3, limited by printer time)
          that could not be made subtractively
+    
+**For all assignments, you have to document the process, include your original CAD/design files and include a "hero" shot of your assignment**
