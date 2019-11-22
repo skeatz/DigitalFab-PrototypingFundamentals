@@ -29,40 +29,40 @@
 * Food
 * concrete
 
-### Constraints
-* failure
+### [Constraints](http://www.3dbenchy.com/)
+* [failure](http://academy.cba.mit.edu/classes/scanning_printing/fail.jpg)
 * resolution
 * time
 * cost
-* ventilation
+* [ventilation](https://3dprintingcanada.com/blogs/news/the-importance-of-ventilation-and-your-3d-printing-workspace)
 * supports
-  * overhang
-  * clearance
+  * [overhang](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/overhang.jpg)
+  * [clearance](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/clearance.jpg)
 * unsupported
-  * overhang
-  * angle
-  * bridging
-* wall thickness
-* dimensions
-* anisotropy
-* surface finish
-* infill
-* post-processing
+  * [overhang](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/angle.jpg)
+  * [angle](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/angle.jpg)
+  * [bridging](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/bridging.jpg)
+* [wall thickness](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/thickness.jpg)
+* [dimensions](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/dimension.jpg)
+* [anisotropy](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/anisotropy.jpg)
+* [surface finish](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/finish.jpg)
+* [infill](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/infill.jpg)
+* [post-processing](http://www.smooth-on.com/Epoxy-Coatings-XTC/c1397_1429/index.html)
 
 ### Processes
-* stereolithography (SLA), digital light processing (DLP)
-* fused deposition modelling/fused filament fabrication
-* ink-jet binder, polyjet
-* cut sheets
-* selective laser sintering (SLS), selective laser melting (SLM)
+* [stereolithography](http://www.3dsystems.com/3d-printers), [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/)
+* [fused deposition modelling](http://www.stratasys.com/3d-printers)/fused filament fabrication
+* [ink-jet binder](http://www.3dsystems.com/3d-printers/personal/overview), [polyjet](https://www.stratasys.com/polyjet-technology)
+* [cut sheets](http://www.mcortechnologies.com/)
+* [selective laser sintering](https://www.eos.info/systems_solutions/metal/systems_equipment) (SLS), selective laser melting (SLM)
 * electron beam melting (EBM)
 
 ### Machines
 * [Makerbot](https://www.makerbot.com/), [Ultimaker](https://ultimaker.com/)
-* [Prusa](https://www.prusa3d.com/)
+* [Prusa](https://www.prusa3d.com/), [parts](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/index.html)
 * [Sindoh](http://3dprinter.sindoh.com/)
-* [Formlabs](http://formlabs.com/)
-* [Stratasys](https://www.stratasys.com/)
+* [Formlabs](http://formlabs.com/), [parts](http://academy.cba.mit.edu/classes/scanning_printing/Form3/index.html)
+* [Objet](https://www.stratasys.com/3d-printers/objet260-connex3), [parts](http://academy.cba.mit.edu/classes/scanning_printing/C260/index.html)
 * [3D Systems](https://www.3dsystems.com/)
 
 ### Service Bureaus
