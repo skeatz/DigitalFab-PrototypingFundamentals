@@ -50,7 +50,7 @@
 * [post-processing](http://www.smooth-on.com/Epoxy-Coatings-XTC/c1397_1429/index.html)
 
 ### Processes
-* [stereolithography](http://www.3dsystems.com/3d-printers), [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/)
+* [stereolithography](http://www.3dsystems.com/3d-printers) (SLA), [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/) (DLP)
 * [fused deposition modelling](http://www.stratasys.com/3d-printers)/fused filament fabrication
 * [ink-jet binder](http://www.3dsystems.com/3d-printers/personal/overview), [polyjet](https://www.stratasys.com/polyjet-technology)
 * [cut sheets](http://www.mcortechnologies.com/)
@@ -90,20 +90,22 @@
 * Rhino 3D
 
 ### Slicer Software
-* Cura
-* Slic3r
-* Simplify3D
+* [Cura](http://software.ultimaker.com/)
+* [Slic3r](http://slic3r.org/)
+* [IceSL](https://icesl.loria.fr/)
+* [Simplify3D](https://www.simplify3d.com/software/features/)
 
 ### Mesh Editing
-* Meshlab
-* MeshMixer
-* NetFabb
+* [Meshlab](http://www.meshlab.net/)
+* [MeshMixer](http://www.meshmixer.com/)
+* [NetFabb](https://www.autodesk.com/products/netfabb/overview)
 
 ### Downloadable Models
-* Thingiverse
-* Youmagine
-* Yeggi
-* GrabCAD
+* [Thingiverse](https://www.thingiverse.com/)
+* [Youmagine](https://www.youmagine.com/)
+* [Yeggi](https://www.yeggi.com/)
+* [SketchFab](https://sketchfab.com/)
+* [GrabCAD](https://grabcad.com/)
 
 ### Workflow
 * 3D Model (design, download, scan)
@@ -113,6 +115,7 @@
 
 ### Guides
 * [How to design for FFF 3D printing](https://kea-makerlab.github.io/hello/assets/Ultimaker-guide-how-to-design-for-fff-3d-printing.pdf)
+* [3D Printer Buying Guide](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwifgNP60vzlAhXOwjgGHRJPC5EQFjAAegQIAxAB&url=https%3A%2F%2Fall3dp.com%2F1%2Fhow-to-buy-3d-printer-buying-guide%2F&usg=AOvVaw2q9M94jGIaFefjAc9AcRsU)
 
 
 ### Assignment
