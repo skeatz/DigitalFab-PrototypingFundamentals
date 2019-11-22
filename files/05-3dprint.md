@@ -127,7 +127,18 @@
 ### Guides
 * [How to design for FFF 3D printing](https://kea-makerlab.github.io/hello/assets/Ultimaker-guide-how-to-design-for-fff-3d-printing.pdf)
 * [3D Printer Buying Guide](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=2ahUKEwifgNP60vzlAhXOwjgGHRJPC5EQFjAAegQIAxAB&url=https%3A%2F%2Fall3dp.com%2F1%2Fhow-to-buy-3d-printer-buying-guide%2F&usg=AOvVaw2q9M94jGIaFefjAc9AcRsU)
+* [3D Printing Checklist](https://ultimaker.com/en/resources/21909-everyday-3d-printing-checklist)
 
+### Recommended Cura settings
+* Printer: Ultimaker 2+
+* Material: PLA
+* Nozzle: 0.4mm
+* Layer height: 0.25mm (quick), 0.2mm (normal)
+* Wall thickness: 0.8mm (min)
+* Infill: 15 ~ 20% (normal)
+* Print speed: 50 ~ 80 mm/s
+* Support: none (preferred), touching buildplate (if require), everywhere (last resort)
+* Bed Adhesion: none/skirt (preferred), brim (if required), raft (last resort)
 
 ### Assignment
 * Group: test the design rules for a 3D printer: support, overhang, infill, clearance, etc
