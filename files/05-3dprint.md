@@ -140,6 +140,9 @@
 * Support: none (preferred), touching buildplate (if require), everywhere (last resort)
 * Bed Adhesion: none/skirt (preferred), brim (if required), raft (last resort)
 
+### Worksheet
+* [Introduction to 3D printing](05 3D Printed Tool.pdf)
+
 ### Assignment
 * Group: test the design rules for a 3D printer: support, overhang, infill, clearance, etc
 * Individual: design and 3D print an object (small, few cm3, limited by printer time)
