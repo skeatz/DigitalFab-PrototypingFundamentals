@@ -108,13 +108,15 @@
 * [SketchFab](https://sketchfab.com/)
 * [GrabCAD](https://grabcad.com/)
 
-### ![Workflow](../images/05_3dprinting_workflow.jpg)
+### [Workflow] 
+![3D printing workflow](../images/05_3dprinting_workflow.jpg)
 * 3D Model (design, download, scan)
 * Generate STL, OBJ, 3MF
 * Slicer
 * gcode
 
-### ![Parts of 3D Printer](../images/05_3dprinter_components.jpg)
+### [Parts of 3D Printer] 
+![Parts of 3D Printer](../images/05_3dprinter_components.jpg)
 * filament
 * extruder
 * build plate
@@ -122,6 +124,7 @@
 * display panel
 * motor drives
 
+**Ultimaker 2+ Parts**
 ![Ultimaker 2+ parts](../images/05_Ultimaker2.png)
 
 ### Guides
@@ -153,4 +156,5 @@
     
 **For all assignments, you have to document the process, include your original CAD/design files and include a "hero" shot of your assignment**
 
+### Example of Individual Assignment 
 ![Example for Individual Assignment](../images/05_ind-assignment.png)
