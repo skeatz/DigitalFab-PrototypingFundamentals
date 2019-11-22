@@ -50,6 +50,7 @@
 * [post-processing](http://www.smooth-on.com/Epoxy-Coatings-XTC/c1397_1429/index.html)
 
 ### [Processes](http://3dprintingfromscratch.com/common/types-of-3d-printers-or-3d-printing-technologies-overview/)
+![Types of 3D printers](../images/05_processes.JPG)
 * [stereolithography](http://www.3dsystems.com/3d-printers) (SLA), [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/) (DLP)
 * [fused deposition modelling](http://www.stratasys.com/3d-printers)/fused filament fabrication
 * [ink-jet binder](http://www.3dsystems.com/3d-printers/personal/overview), [polyjet](https://www.stratasys.com/polyjet-technology)
@@ -107,11 +108,21 @@
 * [SketchFab](https://sketchfab.com/)
 * [GrabCAD](https://grabcad.com/)
 
-### Workflow
+### ![Workflow](../images/05_3dprinting_workflow.jpg)
 * 3D Model (design, download, scan)
 * Generate STL, OBJ, 3MF
 * Slicer
 * gcode
+
+### ![Parts of 3D Printer](../images/05_3dprinter_components.jpg)
+* filament
+* extruder
+* build plate
+* cooling fan
+* display panel
+* motor drives
+
+![Ultimaker 2+ parts](../images/05_Ultimaker2.png)
 
 ### Guides
 * [How to design for FFF 3D printing](https://kea-makerlab.github.io/hello/assets/Ultimaker-guide-how-to-design-for-fff-3d-printing.pdf)
