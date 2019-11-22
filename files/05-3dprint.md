@@ -15,7 +15,7 @@
 * [Scott Crump](https://www.computerhope.com/people/s_scott_crump.htm)
 * [Adrian Bowyer](https://www.revolvy.com/page/Adrian-Bowyer)
 
-### Materials
+### [Materials](https://www.allthat3d.com/3d-printer-filament/)
 * PLA
 * ABS
 * PETG
@@ -49,7 +49,7 @@
 * [infill](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/infill.jpg)
 * [post-processing](http://www.smooth-on.com/Epoxy-Coatings-XTC/c1397_1429/index.html)
 
-### Processes
+### [Processes](http://3dprintingfromscratch.com/common/types-of-3d-printers-or-3d-printing-technologies-overview/)
 * [stereolithography](http://www.3dsystems.com/3d-printers) (SLA), [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/) (DLP)
 * [fused deposition modelling](http://www.stratasys.com/3d-printers)/fused filament fabrication
 * [ink-jet binder](http://www.3dsystems.com/3d-printers/personal/overview), [polyjet](https://www.stratasys.com/polyjet-technology)
