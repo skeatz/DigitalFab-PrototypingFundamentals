@@ -152,3 +152,5 @@
          that could not be made subtractively
     
 **For all assignments, you have to document the process, include your original CAD/design files and include a "hero" shot of your assignment**
+
+![Example for Individual Assignment](../images/05_ind-assignment.png)
