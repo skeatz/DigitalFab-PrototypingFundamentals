@@ -1,5 +1,5 @@
 # Laser Cutting
-[powerpoint slide](06_laser cutting.pdf)
+[powerpoint slide](06_lasercutting.pdf)
 
 ## Assignment
 * Determine the kerf, power, speed, frequency/ppi settings for a laser cutter
