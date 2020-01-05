@@ -1,4 +1,7 @@
 # Digital Fabrication & Prototyping Fundamentals
+**Announcements**
+No class on Mon 6 Jan 2020. Please use the time to complete your outstanding assignments and update the documentation on your website.
+
 **Module Aims**
 
 In this elective, students are introduced to design thinking concepts, which they will use to design some functional prototypes to meet certain user requirements. Fundamental digital fabrication skills and technologies such as computer-aided design, 2D and 3D modelling, mechanical & electronic design and programming skills are developed through a range of hands-on real world activities. Project management, web and version control techniques, which are important for project development, will also be imparted to students.
