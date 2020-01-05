@@ -1,5 +1,6 @@
 # Digital Fabrication & Prototyping Fundamentals
 **Announcements**
+
 No class on Mon 6 Jan 2020. Please use the time to complete your outstanding assignments and update the documentation on your website.
 
 **Module Aims**
