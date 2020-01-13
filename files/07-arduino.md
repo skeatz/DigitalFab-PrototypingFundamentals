@@ -30,10 +30,13 @@
   * power requirements: V, I, P = I^2R = VI
 * [microcontrollers](https://interestingengineering.com/what-are-microcontrollers-and-why-should-you-care)
   * [arduino.cc](https://www.arduino.cc/)
+  * [Introduction to Arduino programming](http://www.brunel.ac.uk/~emstaam/material/bit/Introduction_MictoControllers.pdf)
   * [arduino beginner's workshop](https://core-electronics.com.au/tutorials/arduino-workshop-for-beginners.html)
   * [arduino lessons](https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
   * [arduino notes](https://www.4tronix.co.uk/arduino/ArduinoLearning.pdf)
   * [tinkercad circuits](https://core-electronics.com.au/tutorials/arduino-workshop-for-beginners.html)
+  * [Ardublock](https://sourceforge.net/projects/ardublock/)
+  * [Getting started with ardublock](https://learn.sparkfun.com/ArduBlock)
 * [sensors](http://academy.cba.mit.edu/classes/input_devices/index.html) (input devices)
 * [actuators](http://academy.cba.mit.edu/classes/output_devices/index.html) (output devices)
 
