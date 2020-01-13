@@ -26,9 +26,7 @@
 * Power
   * battery: [primary](https://www.explainthatstuff.com/batteries.html), [li-ion](https://www.explainthatstuff.com/how-lithium-ion-batteries-work.html), [li-polymer](https://rogershobbycenter.com/lipoguide)
   * [ac dc adapters](https://sg.rs-online.com/web/p/ac-dc-adapters/1871381)
-  
   * [dc dc converters](https://www.digikey.sg/en/maker/blogs/introduction-to-dc-dc-converters)
-  
   * power requirements: V, I, P = I^2R = VI
 * [microcontrollers](https://interestingengineering.com/what-are-microcontrollers-and-why-should-you-care)
   * [arduino.cc](https://www.arduino.cc/)
