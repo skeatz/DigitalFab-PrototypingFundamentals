@@ -8,9 +8,9 @@
 
 ## Notes
 *Components*
-* wire
-* pushbutton, switch
-* resistor: V = I/R
+* [wire](https://www.digikey.com/products/en?x=0&y=0&lang=en&site=us&KeyWords=AE09M-300-ND%09)
+* [pushbutton](https://www.digikey.com/product-detail/en/B3SN-3112P/SW262CT-ND), [switch](https://www.digikey.com/product-detail/en/AYZ0102AGRLC/401-2012-1-ND)
+* [resistor](): V = I/R
 * capacitor: C = Q/V, I = C dV/dt
   * polarized
   * unpolarized
