@@ -34,7 +34,7 @@
   * [arduino beginner's workshop](https://core-electronics.com.au/tutorials/arduino-workshop-for-beginners.html)
   * [arduino lessons](https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
   * [arduino notes](https://www.4tronix.co.uk/arduino/ArduinoLearning.pdf)
-  * [tinkercad circuits](https://core-electronics.com.au/tutorials/arduino-workshop-for-beginners.html)
+  * [tinkercad circuits](https://www.tinkercad.com/)
   * [Ardublock](https://sourceforge.net/projects/ardublock/)
   * [Getting started with ardublock](https://learn.sparkfun.com/ArduBlock)
 * [sensors](http://academy.cba.mit.edu/classes/input_devices/index.html) (input devices)
