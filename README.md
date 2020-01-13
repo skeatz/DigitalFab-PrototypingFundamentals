@@ -38,7 +38,7 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *6. [Computer Controlled Cutting](files/06-lasercutting.md)*
 
-*7. Embedded Programming w/Arduino*
+*7. [Embedded Programming w/Arduino](files/07-arduino.md)*
 
 *8. Project*
 
