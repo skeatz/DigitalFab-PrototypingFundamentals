@@ -40,6 +40,10 @@
 * [sensors](http://academy.cba.mit.edu/classes/input_devices/index.html) (input devices)
 * [actuators](http://academy.cba.mit.edu/classes/output_devices/index.html) (output devices)
 
+## Sample Arduino Code
+* [Blink led](arduino_blink.ino)
+* [Blink led, monitor pushbutton](arduino_single pb-led.ino)
+* [Pedestrian crossing](arduino_pedestrian%20crossing.ino)
 
 ## Assignment
 * Interface at least one input and one output device to an embedded board (e.g. Arduino Uno, Arduino Nano)
