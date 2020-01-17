@@ -42,7 +42,7 @@
 
 ## Sample Arduino Code
 * [Blink led](arduino_blink.ino)
-* [Blink led, monitor pushbutton](arduino_single pb-led.ino)
+* [Blink led, monitor pushbutton](arduino_single%20pb-led.ino)
 * [Pedestrian crossing](arduino_pedestrian%20crossing.ino)
 
 ## Assignment
