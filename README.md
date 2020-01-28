@@ -49,4 +49,4 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *2. [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)*
 
-*3. [Class](class/readme.md)*
+*3. [Class]()*
