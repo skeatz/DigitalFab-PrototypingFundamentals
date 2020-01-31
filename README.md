@@ -40,7 +40,7 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *7. [Embedded Programming w/Arduino](files/07-arduino.md)*
 
-*8. Project*
+*8. [Project](files/08-project.md)*
 
 
 **Tutorials & Links**
