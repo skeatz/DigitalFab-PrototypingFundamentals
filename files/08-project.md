@@ -14,11 +14,11 @@
     * all original design & source code files
     * screen capture/photos showing stages in development as well as final product
 ## Project presentation
-* Prepare a 1 page (1920 x 1024 pix) poster of your project, showing
+* Prepare a 1 page (1920 x 1080 pix) poster of your project, showing
   * overall project
   * technologies used
   * group members
-* Prepare a 1 minute video documenting your project development process and final version of the project
+* Prepare a 1 minute video (1920 x 1080) documenting your project development process and final version of the project
 ## Other information
 * Complete your final project, tracking your progress:
   * what tasks have been completed, and what tasks remain? 
