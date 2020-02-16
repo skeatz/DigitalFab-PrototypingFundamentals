@@ -2,7 +2,7 @@
 
 * [CHAI JIA HAN](https://jiahan98.github.io/dfeb/)
 
-* [GOH WEI ERN](https://weiern12.github.io/bruh/bruh.html)
+* [GOH WEI ERN](https://weiern12.github.io/bruh/)
 
 * [JEANINE KOH](https://kjeanineeee.github.io/jeanine-web/)
 
