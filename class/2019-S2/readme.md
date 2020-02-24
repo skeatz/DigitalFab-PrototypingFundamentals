@@ -8,7 +8,7 @@
 
 * [KOH YE CHUN](https://kohyechun.github.io/YE-CHUN/index.html)
 
-* [FRASER LAI CHUEN SEN](https://fraser-lai.github.io/dfab-web/Fraser.html)
+* [FRASER LAI CHUEN SEN](https://fraser-lai.github.io/dfab-web/Index.html)
 
 * [LEE KUN TENG](https://chewykaya.github.io/K-Webz/)
 
