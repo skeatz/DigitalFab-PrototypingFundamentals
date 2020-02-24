@@ -18,9 +18,7 @@
 
 * [MOHAMMAD IRFAN](https://irfanhaffit.github.io/Dfabweb/index.html)
 
-[NG ADRIAN ??]()
-
-[NUR DIYANA ??]()
+[NUR DIYANA](https://diyanaaqilah.github.io/FABLAB/)
 
 * [NURHAFIZATUL](https://hafizamirah.github.io/Dfabweb/index.html)
 
