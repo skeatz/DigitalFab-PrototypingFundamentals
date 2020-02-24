@@ -4,7 +4,7 @@
 
 * [GOH WEI ERN](https://weiern12.github.io/bruh/)
 
-* [JEANINE KOH](https://kjeanineeee.github.io/jeanine-web/)
+* [JEANINE KOH](https://kjeanineeee.github.io/jeaninekoh-web/)
 
 * [KOH YE CHUN](https://kohyechun.github.io/YE-CHUN/index.html)
 
