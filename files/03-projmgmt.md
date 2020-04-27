@@ -18,8 +18,8 @@
    * [Learn CSS in 20 min](https://www.youtube.com/watch?v=1PnVor36_40)
    * [Learn JavaScript in 12 mins](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
    * [HTML5 cheatsheet](https://htmlcheatsheet.com/), [HTML5 cheatsheet](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet), [HTML5 cheatsheet (pdf)](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
-   * [JavaScript cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
-   * [CSS cheatsheet](https://websitesetup.org/css3-cheat-sheet/), [CSS cheatsheet](https://htmlcheatsheet.com/css/)
+   * [JavaScript cheatsheet](https://websitesetup.org/javascript-cheat-sheet/), [JavaScript cheatsheet](https://htmlcheatsheet.com/js/)
+   * [CSS cheatsheet](https://websitesetup.org/css3-cheat-sheet/), [CSS cheatsheet](https://htmlcheatsheet.com/css/), [CSS cheatsheet](http://www.cheat-sheets.org/sites/css.su/)
    * [CSS Zen Garden](http://www.csszengarden.com/)
 3. Web Editors
    * [Atom](https://atom.io/), [Brackets](http://brackets.io/)
