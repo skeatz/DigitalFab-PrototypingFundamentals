@@ -8,6 +8,11 @@
    * [Hierarchy](https://www.hierarchystructure.com/what-is-project-hierarchy/), [modularity](https://en.wikipedia.org/wiki/Modularity)
    * Document as you work
    * [Mythical man-month](https://en.wikipedia.org/wiki/The_Mythical_Man-Month)
+2. Project Management Software
+   - [TaskJuggler](https://taskjuggler.org/)
+   - [OpenProj](https://sourceforge.net/projects/openproj/)
+   - [GanttProject](https://sourceforge.net/projects/openproj/)
+   - [Trello](https://trello.com/stevenchew17/boards)
 2. Web Development
    * [HTML, CSS, JavaScript](https://blog.hubspot.com/marketing/web-design-html-css-javascript)
    * [W3 Schools](https://www.w3schools.com/)
