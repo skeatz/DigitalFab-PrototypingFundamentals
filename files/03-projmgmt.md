@@ -17,7 +17,7 @@
    * [Learn CSS in 12 mins](https://www.youtube.com/watch?v=0afZj1G0BIE)
    * [Learn CSS in 20 min](https://www.youtube.com/watch?v=1PnVor36_40)
    * [Learn JavaScript in 12 mins](https://www.youtube.com/watch?v=Ukg_U3CnJWI)
-   * [HTML5 cheatsheet](https://websitesetup.org/html5-cheat-sheet/)
+   * [HTML5 cheatsheet](https://htmlcheatsheet.com/), [HTML5 cheatsheet](https://developer.mozilla.org/en-US/docs/Learn/HTML/Cheatsheet), [HTML5 cheatsheet (pdf)](https://html.com/wp-content/uploads/html-cheat-sheet.pdf)
    * [JavaScript cheatsheet](https://websitesetup.org/javascript-cheat-sheet/)
    * [CSS cheatsheet](https://websitesetup.org/css3-cheat-sheet/)
    * [CSS Zen Garden](http://www.csszengarden.com/)
