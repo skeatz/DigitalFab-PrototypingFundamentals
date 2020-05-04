@@ -13,3 +13,4 @@
   * [Git-it: Desktop app to learn Git](http://jlord.us/git-it/)  
 * Web Development
   * [Website template (zipped)](resources/website-template.zip)
+  * [Markdown template for EP1000](https://github.com/skeatz/web-pk)
