@@ -45,7 +45,7 @@ Assessment will be based on exercises and projects through three in-course asses
 
 **Tutorials & Links**
 
-*1. [Tutorials](files/00-tutorials.md)*
+*1. [Tutorials](files/00-tutorials.md)* Links to **website templates** here
 
 *2. [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)*
 
