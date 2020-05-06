@@ -7,3 +7,4 @@
 - [Aidi Saifudin](https://aidisaifudin.github.io/EP1000/)
 - [Wong Quan Yao](https://mtgbootz.github.io/EP1000/V2.html)
 - [Leow E Chen](https://echenleow.github.io/fablab/index.html)
+- [Sindy](https://sindygoh.github.io/dIGITAL/)
