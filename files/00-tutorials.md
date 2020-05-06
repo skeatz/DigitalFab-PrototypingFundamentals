@@ -8,9 +8,11 @@
 
 *Tutorials*
 * Git
-  * [MAS863 Recitation: Version Control](http://fab.cba.mit.edu/classes/MAS.863/doc/webpage_recitation/index.html)
-  * [Fab Academy Recition: Version Control](http://fab.academany.org/2019/recitations/version-control/index.html#1)
-  * [Git-it: Desktop app to learn Git](http://jlord.us/git-it/)  
+  - [MAS863 Recitation: Version Control](http://fab.cba.mit.edu/classes/MAS.863/doc/webpage_recitation/index.html)
+  - [Fab Academy Recition: Version Control](http://fab.academany.org/2019/recitations/version-control/index.html#1)
+  - [Git-it: Desktop app to learn Git](http://jlord.us/git-it/)  
 * Web Development
-  * [Website template (zipped)](resources/website-template.zip)
-  * [Markdown template for EP1000](https://github.com/skeatz/web-pk)
+  - [Sample website (HTML/CSS)](https://skeatz.github.io/DFabWeb/)
+  - [Website template (HTML/CSS, zipped)](resources/website-template.zip)
+  - [Sample website (Jekyll/Markdown)](https://skeatz.github.io/web-pk/)
+  - [Website template (Jekyll/Markdown)](https://github.com/skeatz/web-pk)
