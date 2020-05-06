@@ -8,3 +8,4 @@
 - [Wong Quan Yao](https://mtgbootz.github.io/EP1000/V2.html)
 - [Leow E Chen](https://echenleow.github.io/fablab/index.html)
 - [Sindy](https://sindygoh.github.io/dIGITAL/)
+- [Shawn Tan](https://shawn-tan-ep1k.github.io/EP1000/)
