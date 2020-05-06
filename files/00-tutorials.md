@@ -3,8 +3,10 @@
 *Note: Individual weekly lectures contain many video & non-video tutorial links. This page tries to consolidate some of the tutorial links all in one place*
 
 *Resources*
-* [MAS863: How To Make Almost Anything](http://fab.cba.mit.edu/classes/MAS.863/)
-* [Web Colors](https://www.rapidtables.com/web/color/index.html)
+- [MAS863: How To Make Almost Anything](http://fab.cba.mit.edu/classes/MAS.863/)
+- [Web Colors](https://www.rapidtables.com/web/color/index.html)
+- [Website Color Picker](https://flatuicolors.com/)
+- [Image Placeholder](https://placeimg.com/)
 
 *Tutorials*
 * Git
