@@ -9,3 +9,4 @@
 - [Leow E Chen](https://echenleow.github.io/fablab/index.html)
 - [Sindy](https://sindygoh.github.io/dIGITAL/)
 - [Shawn Tan](https://shawn-tan-ep1k.github.io/EP1000/)
+- [Anthony Tan](https://kuudan.github.io/EP1000/index.html)
