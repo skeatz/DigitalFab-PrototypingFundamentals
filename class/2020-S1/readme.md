@@ -20,4 +20,4 @@
 - [Muzaffar Ilhan ??]()
 - [Chen Jiacheng ??]()
 - [Muhammad Khairin ??]()
-- [Bryan Tan ??]()
+- [Bryan Tan](https://bryanpotato.github.io/Digital_Fabrication_Prototype_fundamentals/index.html)
