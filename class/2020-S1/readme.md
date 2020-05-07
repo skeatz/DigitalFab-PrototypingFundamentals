@@ -7,6 +7,7 @@
 - [Aidi Saifudin](https://aidisaifudin.github.io/EP1000/)
 - [Wong Quan Yao](https://mtgbootz.github.io/EP1000/V2.html)
 - [Leow E Chen](https://echenleow.github.io/fablab/index.html)
-- [Sindy](https://sindygoh.github.io/dIGITAL/)
+- [Sindy Goh](https://sindygoh.github.io/dIGITAL/)
 - [Shawn Tan](https://shawn-tan-ep1k.github.io/EP1000/)
 - [Anthony Tan](https://kuudan.github.io/EP1000/index.html)
+- [Caleb Yeow](https://caleb-yeow.github.io/Calebs-website/web/index.htm)
