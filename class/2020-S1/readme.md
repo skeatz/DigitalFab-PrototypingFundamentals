@@ -14,7 +14,7 @@
 - [Aidi Saifudin](https://aidisaifudin.github.io/EP1000/)
 - [Chua Zhi Ann ??]()
 - [Christopher Teng](https://eatshitandgrowstrong.github.io/hub/)
-- [Caleb Yeow](https://caleb-yeow.github.io/Calebs-website/web/index.htm)
+- [Caleb Yeow](https://caleb-yeow.github.io/Calebs-website/web/index.html)
 - [Cheryl Ng ??]()
 - [Dean Tan](https://deantanwj.github.io/DFAB-/)
 - [Muzaffar Ilhan ??]()
