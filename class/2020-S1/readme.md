@@ -3,7 +3,7 @@
 ## FT/02
 - [Sindy Goh](https://sindygoh.github.io/dIGITAL/)
 - [Rachael Cheng](https://raeyyyychael.github.io/EP1000/)
-- [Gabriel Asaween](https://gabriel-as.github.io/EP1000-SP/)
+- [Gabriel Asaween](https://gabriel-as.github.io/EP1000-SP/main.html)
 - [Wong Quan Yao](https://mtgbootz.github.io/EP1000/V2.html)
 - [Voo Zhan Li](https://v00zhanli.github.io/digitalfablab/)
 - [Rayan Tan](https://mochidaisuki.github.io/Dfab-website/)
