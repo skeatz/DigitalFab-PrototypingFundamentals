@@ -17,7 +17,7 @@
 - [Caleb Yeow](https://caleb-yeow.github.io/Calebs-website/web/index.html)
 - [Cheryl Ng ??]()
 - [Dean Tan](https://deantanwj.github.io/DFAB-/)
-- [Muzaffar Ilhan ??]()
+- [Muzaffar Ilhan](https://muzaffar2020.github.io/My-website/)
 - [Chen Jiacheng ??]()
 - [Muhammad Khairin ??]()
 - [Bryan Tan](https://bryanpotato.github.io/Digital_Fabrication_Prototype_fundamentals/index.html)
