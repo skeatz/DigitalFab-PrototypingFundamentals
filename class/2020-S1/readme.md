@@ -12,7 +12,7 @@
 - [Shawn Tan](https://shawn-tan-ep1k.github.io/EP1000/)
 - [Ian Low](https://ian-low.github.io/EP1000/)
 - [Aidi Saifudin](https://aidisaifudin.github.io/EP1000/)
-- [Chua Zhi Ann ??](https://Zhi-Ann.github.io/)
+- [Chua Zhi Ann](https://zhi-ann.github.io/My-Webpage/)
 - [Christopher Teng](https://eatshitandgrowstrong.github.io/hub/)
 - [Caleb Yeow](https://caleb-yeow.github.io/Calebs-website/web/index.html)
 - [Cheryl Ng](http://chwnzyl.github.io/EP1000/webpage.html)
