@@ -47,9 +47,10 @@
   * [Blender](https://www.blender.org/)
   * [Sculptris](https://pixologic.com/sculptris/)
 * **Audio/Video**
-  * [Kdenlive](https://kdenlive.org/en/)
+  * [Kdenlive](https://kdenlive.org/en/), [OpenShot](https://www.openshot.org/)
   * [Audacity](https://www.audacityteam.org/)
   * [Premier](https://www.adobe.com/sea/products/premiere.html)
+  * [SimpleScreenRecorder](https://www.maartenbaert.be/simplescreenrecorder/), [Techsmith Capture](https://www.techsmith.com/jing-tool.html)
   * [ffmpeg](http://ffmpeg.org/), [avconv](https://libav.org/docs/avconv.html)
   * [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
     * Encoding: [handbrake](https://handbrake.fr/), [MiroConverter](http://www.mirovideoconverter.com/), [video](http://academy.cba.mit.edu/classes/computer_design/video.html)
