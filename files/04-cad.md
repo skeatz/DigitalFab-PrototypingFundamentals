@@ -4,6 +4,8 @@
     * [Tutorial](https://www.gimp.org/tutorials/)
     * [Gimp Quickies](https://www.gimp.org/tutorials/GIMP_Quickies/)
     * [Gimp Basics](https://www.gimp.org/tutorials/)
+    * [Video Tutorial (Complete)](https://www.youtube.com/watch?v=2EPIUyFJ4ag&t=37s)
+    * [Gimp for Beginners](https://daviesmediadesign.com/20-gimp-2-10-tutorials-for-beginners/)
   * [Photoshop](https://www.adobe.com/products/photoshop.html)
     * [Tutorial](https://helpx.adobe.com/photoshop/tutorials.html)
     * [User guide](https://helpx.adobe.com/photoshop/user-guide.html)
