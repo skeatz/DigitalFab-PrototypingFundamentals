@@ -46,6 +46,12 @@
   * [FreeCAD](https://www.freecadweb.org/)
   * [Blender](https://www.blender.org/)
   * [Sculptris](https://pixologic.com/sculptris/)
+* **(Interchange) File Formats**
+  * [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF)
+  * [OBJ](https://all3dp.com/1/obj-file-format-3d-printing-cad/)
+  * [STL](https://all3dp.com/what-is-stl-file-format-extension-3d-printing/)
+  * [3MF](https://fileinfo.com/extension/3mf)
+  * [STEP](https://fileinfo.com/extension/step)
 * **Audio/Video**
   * [Kdenlive](https://kdenlive.org/en/), [OpenShot](https://www.openshot.org/)
   * [Audacity](https://www.audacityteam.org/)
@@ -54,12 +60,6 @@
   * [ffmpeg](http://ffmpeg.org/), [avconv](https://libav.org/docs/avconv.html)
   * [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
     * Encoding: [handbrake](https://handbrake.fr/), [MiroConverter](http://www.mirovideoconverter.com/), [video](http://academy.cba.mit.edu/classes/computer_design/video.html)
-* **(Interchange) File Formats**
-  * [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF)
-  * [OBJ](https://all3dp.com/1/obj-file-format-3d-printing-cad/)
-  * [STL](https://all3dp.com/what-is-stl-file-format-extension-3d-printing/)
-  * [3MF](https://fileinfo.com/extension/3mf)
-  * [STEP](https://fileinfo.com/extension/step)
   
 **Assignment:**
 * Model (2D raster, vector, 3D) a possible final project.
