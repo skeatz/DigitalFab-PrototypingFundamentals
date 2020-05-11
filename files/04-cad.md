@@ -43,6 +43,7 @@
     * [Beginner's Tutorial](http://edutechwiki.unige.ch/en/OpenScad_beginners_tutorial)
     * [All3DP Tutorial](https://all3dp.com/2/openscad-tutorial-for-beginners-5-easy-steps/)
     * [OpenHome](https://openhome.cc/eGossip/OpenSCAD/)
+    * [Beginner's Quickstart](https://www.youtube.com/watch?v=oTCu2hCuqfg&t=47s)
     * [Thingiverse - Customizable](https://www.thingiverse.com/search?q=customizable&dwh=295dbaef526c250)
   * [SketchUp](https://www.sketchup.com/)
   * [FreeCAD](https://www.freecadweb.org/)
