@@ -52,7 +52,7 @@
   * [Premier](https://www.adobe.com/sea/products/premiere.html)
   * [ffmpeg](http://ffmpeg.org/), [avconv](https://libav.org/docs/avconv.html)
   * [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
-    * Encoding: [handbrake](https://handbrake.fr/), [video](http://academy.cba.mit.edu/classes/computer_design/video.html)
+    * Encoding: [handbrake](https://handbrake.fr/), [MiroConverter](http://www.mirovideoconverter.com/), [video](http://academy.cba.mit.edu/classes/computer_design/video.html)
 * **(Interchange) File Formats**
   * [DXF](https://en.wikipedia.org/wiki/AutoCAD_DXF)
   * [OBJ](https://all3dp.com/1/obj-file-format-3d-printing-cad/)
