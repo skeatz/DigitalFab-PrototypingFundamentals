@@ -15,7 +15,7 @@
 - [Chua Zhi Ann](https://zhi-ann.github.io/My-Webpage/)
 - [Christopher Teng](https://eatshitandgrowstrong.github.io/hub/)
 - [Caleb Yeow](https://caleb-yeow.github.io/Calebs-website/web/index.html)
-- [Cheryl Ng](http://chwnzyl.github.io/EP1000/webpage.html)
+- [Cheryl Ng](http://chwnzyl.github.io/DFAB/home)
 - [Dean Tan](https://deantanwj.github.io/DFAB-/)
 - [Muzaffar Ilhan](https://muzaffar2020.github.io/My-website/)
 - [Chen Jiacheng](https://cjiacheng.github.io/EP-1000/)
