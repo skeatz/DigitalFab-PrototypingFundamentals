@@ -1,4 +1,6 @@
 # 3D Printing
+### [Fablab 3D Printing notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1826847_1)
+
 ### [Manufacturing Processes](https://en.wikipedia.org/wiki/List_of_manufacturing_processes)
 * [Additive vs Subtractive](https://all3dp.com/2/additive-vs-subtractive-manufacturing-simply-explained/)
 * [Cutting](https://en.wikipedia.org/wiki/Cutting)
@@ -6,9 +8,10 @@
 
 ### [Motivations/Advantages](https://www.3dhubs.com/knowledge-base/advantages-3d-printing/)
 * Design freedom
-* Closed system
-* Quick production
+* Faster production
 * Customization
+* Less waste
+* many others
 
 ### 3D Printing Hall of Fame
 * [Chuck Hull](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/)
@@ -31,7 +34,7 @@
 
 ### [Constraints](http://www.3dbenchy.com/)
 * [failure](http://academy.cba.mit.edu/classes/scanning_printing/fail.jpg)
-* resolution
+* [layer height](https://all3dp.com/2/3d-printer-layer-height-how-much-does-it-matter/)
 * time
 * cost
 * [ventilation](https://3dprintingcanada.com/blogs/news/the-importance-of-ventilation-and-your-3d-printing-workspace)
@@ -51,15 +54,18 @@
 
 ### [Processes](http://3dprintingfromscratch.com/common/types-of-3d-printers-or-3d-printing-technologies-overview/)
 ![Types of 3D printers](../images/05_processes.JPG)
-* [stereolithography](http://www.3dsystems.com/3d-printers) (SLA), [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/) (DLP)
+* [stereolithography](http://www.3dsystems.com/3d-printers) (SLA)
+* [digital light processing](https://all3dp.com/2/what-is-a-dlp-3d-printer-3d-printing-simply-explained/) (DLP)
 * [fused deposition modelling](http://www.stratasys.com/3d-printers)/fused filament fabrication
-* [ink-jet binder](http://www.3dsystems.com/3d-printers/personal/overview), [polyjet](https://www.stratasys.com/polyjet-technology)
+* [ink-jet binder](http://www.3dsystems.com/3d-printers/personal/overview)
+* [polyjet](https://www.stratasys.com/polyjet-technology)
 * [cut sheets](http://www.mcortechnologies.com/)
 * [selective laser sintering](https://www.eos.info/systems_solutions/metal/systems_equipment) (SLS), selective laser melting (SLM)
 * electron beam melting (EBM)
 
 ### Machines
-* [Makerbot](https://www.makerbot.com/), [Ultimaker](https://ultimaker.com/)
+* [Ultimaker](https://ultimaker.com/)
+* [Makerbot](https://www.makerbot.com/)
 * [Prusa](https://www.prusa3d.com/), [parts](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/index.html)
 * [Sindoh](http://3dprinter.sindoh.com/)
 * [Formlabs](http://formlabs.com/), [parts](http://academy.cba.mit.edu/classes/scanning_printing/Form3/index.html)
