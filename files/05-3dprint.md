@@ -16,7 +16,7 @@
 ### 3D Printing Hall of Fame
 * [Chuck Hull](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/)
 * [Scott Crump](https://www.computerhope.com/people/s_scott_crump.htm)
-* [Adrian Bowyer](https://www.revolvy.com/page/Adrian-Bowyer)
+* [Adrian Bowyer](https://reprap.org/wiki/About)
 
 ### [Materials](https://www.allthat3d.com/3d-printer-filament/)
 * PLA
