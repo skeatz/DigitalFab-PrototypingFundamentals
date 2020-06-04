@@ -2,6 +2,7 @@
 [powerpoint slide](06_laser%20cutting.pdf)
 
 ## Reference
+* [Epilog Fusion M2 Manual](https://www.epiloglaser.com/assets/downloads/manuals/fusion-manual-web.pdf)
 * [Fab Academy - Computer Controlled Cutting](http://academy.cba.mit.edu/classes/computer_cutting/index.html)
 * [Fablab SP lasercutting Notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContentEditable.jsp?content_id=_1547282_1&course_id=_51997_1)
 * [Epilog Laser Cutter Operations Guide](https://wiki.fablabbcn.org/Epilog_Laser_Cutter)
