@@ -1,5 +1,5 @@
 # Laser Cutting
-[powerpoint slide](06_lasercutting.pdf)
+[powerpoint slide](06_laser%20cutting.pdf)
 
 ## Reference
 * [Fab Academy - Computer Controlled Cutting](http://academy.cba.mit.edu/classes/computer_cutting/index.html)
