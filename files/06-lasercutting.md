@@ -9,6 +9,10 @@
 * [Materials List](https://www.epiloglaser.com/how-it-works/laser-material-compatibility.htm)
 * [Materials Settings](https://www.epiloglaser.com/assets/downloads/fusion-material-settings.pdf)
 
+## Examples
+* [Epilog Gallery](https://www.epiloglaser.com/resources/sample-club.htm)
+* [Trotec Samples](https://www.troteclaser.com/en-sg/knowledge/do-it-yourself-samples/)
+
 ## Assignment
 * Determine the kerf, power, speed, frequency/ppi settings for a laser cutter
   * Note: do a test cut, e.g. small square 20mm x 20mm on cardboard or 2.6/3mm plywood
