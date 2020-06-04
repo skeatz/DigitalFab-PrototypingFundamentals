@@ -9,6 +9,7 @@
 * [Materials List](https://www.epiloglaser.com/how-it-works/laser-material-compatibility.htm)
 * [Materials Settings](https://www.epiloglaser.com/assets/downloads/fusion-material-settings.pdf)
 * [Laser FAQs](https://www.epiloglaser.com/how-it-works/laser-faqs.htm)
+* [Cutting vs Engraving: Line Weights](http://support.epiloglaser.com/article/8205/29827/cutting-and-engraving-different-line-weights)
 
 ## Examples
 * [Epilog Gallery](https://www.epiloglaser.com/resources/sample-club.htm)
