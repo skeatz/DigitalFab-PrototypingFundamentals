@@ -1,5 +1,7 @@
 # Laser Cutting
-[powerpoint slide](06_laser%20cutting.pdf)
+- [powerpoint slide](06_laser%20cutting.pdf)
+- [Lecture video](https://vimeo.com/user115623250/review/428893041/c874fe7d7a)
+- [Tutorial video (Group 2)](https://vimeo.com/user115623250/review/428893226/d2a13f4099)
 
 ## Reference
 * [Epilog Fusion M2 Manual](https://www.epiloglaser.com/assets/downloads/manuals/fusion-manual-web.pdf)
