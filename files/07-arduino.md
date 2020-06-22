@@ -38,6 +38,7 @@
   * [tinkercad circuits](https://www.tinkercad.com/)
   * [Tinkercad Circuits Tutorials](https://www.youtube.com/watch?v=3kDMYomFw5o)
   * [Tinkercad Circuits Tutorials](https://www.youtube.com/playlist?list=PLV6cmKvnKRs5geApVORPW79U6s3wpa0Ht)
+  * [Autodesk Circuits Tutorials](https://www.youtube.com/watch?v=OCmeyJA5IRk&list=PLu8TYSQ5jCFho31LxXCoEBlL3x94l6mLc)
   * [Ardublock](https://sourceforge.net/projects/ardublock/)
   * [Getting started with ardublock](https://learn.sparkfun.com/ArduBlock)
 * [sensors](http://academy.cba.mit.edu/classes/input_devices/index.html) (input devices)
