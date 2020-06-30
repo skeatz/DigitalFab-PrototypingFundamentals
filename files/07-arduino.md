@@ -6,6 +6,9 @@
 * [Arduino hardware](ep1000_ArduinoHardware.pdf)
 * [Arduino programming](ep1000_ArduinoProgramming.pdf)
 
+## Videos
+* [L14: Arduino Programming](https://us02web.zoom.us/j/86138396712?pwd=aTJzMTAzRDRjcU9NbmEwZTVMRzYzdz09)
+
 ## Notes
 *Components*
 * [wire](https://www.digikey.com/products/en?x=0&y=0&lang=en&site=us&KeyWords=AE09M-300-ND%09)
