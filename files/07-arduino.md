@@ -7,7 +7,7 @@
 * [Arduino programming](ep1000_ArduinoProgramming.pdf)
 
 ## Videos
-* [L14: Arduino Programming](https://us02web.zoom.us/j/86138396712?pwd=aTJzMTAzRDRjcU9NbmEwZTVMRzYzdz09)
+* [L14: Arduino Programming](https://vimeo.com/433836377)
 
 ## Notes
 *Components*
