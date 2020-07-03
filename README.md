@@ -45,8 +45,10 @@ Assessment will be based on exercises and projects through three in-course asses
 
 **Tutorials & Links**
 
-*1. [Tutorials](files/00-tutorials.md)* Links to **website templates** here
+*1. [RD Module link](https://rdorville.github.io/EP1000/)
 
-*2. [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)*
+*2. [Tutorials](files/00-tutorials.md)* Links to **website templates** here
 
-*3. [Class](class/2020-S1/readme.md)*
+*3. [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)*
+
+*4. [Class](class/2020-S1/readme.md)*
