@@ -20,6 +20,8 @@
     * [Tutorials](https://inkscape.org/learn/tutorials/)
     * [Basic Tutorial](https://inkscape.org/en/doc/tutorials/basic/tutorial-basic.html)
     * [Video Tutorials](https://inkscape.org/learn/videos/)
+    * [Inkscape Beginner Tutorials](https://www.youtube.com/playlist?list=PLynG8gQD-n8BMplEVZVsoYlaRgqzG1qc4)
+    * [Inkscape Basics](https://www.youtube.com/playlist?list=PL_7viLFyJ7sAx1Ykjn5mqwVLfqIrs7UEy)
   * [CorelDraw](https://www.coreldraw.com/en/)
   * [Illustrator](https://www.adobe.com/products/illustrator.html)
 * **3D**
