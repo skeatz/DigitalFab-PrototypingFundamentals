@@ -35,6 +35,7 @@
       * [Understanding Bodies & Components](https://productdesignonline.com/tips-and-tricks/understanding-bodies-and-components-fusion-360-rule-1/)
     * [Fusion 360 Exercises](https://www.youtube.com/channel/UC5jIedWB0-o9Zq0kZPmHeEw/videos)
     * [Fusion 360 Practice Exercises](https://en.calameo.com/read/004987257fab6b0564037)
+    * [Practice Exercises for Engineering Drawing](https://www.researchgate.net/publication/335222697_PRACTICE_PROBLEMS_FOR_ENGINEERING_DRAWING_I)
   * [TinkerCAD](https://www.tinkercad.com/)
   * [Rhino](https://www.rhino3d.com/)
     * [The Zoo](https://wiki.mcneel.com/zoo/home), [Grasshopper](https://www.rhino3d.com/6/new/grasshopper), [Flamingo](https://wiki.mcneel.com/flamingo/home), [Brazil](https://wiki.mcneel.com/brazil/home), [Penguin](https://wiki.mcneel.com/penguin/home)
