@@ -1,6 +1,6 @@
 ## FT/01
 
-## FT/02
+## FT/02 - Personal Websites
 - [Sindy Goh](https://sindygoh.github.io/dIGITAL/)
 - [Rachael Cheng](https://raeyyyychael.github.io/EP1000/)
 - [Gabriel Asaween](https://gabriel-as.github.io/EP1000-SP/main.html)
@@ -21,3 +21,5 @@
 - [Chen Jiacheng](https://cjiacheng.github.io/EP-1000/)
 - [Muhammad Khairin](https://khaisksk.github.io/dfab/FAB.html)
 - [Bryan Tan](https://bryanpotato.github.io/Digital_Fabrication_Prototype_fundamentals/index.html)
+
+### [FT/02 Module Project Listing](ep1000_ay20s1_gp2.md)
