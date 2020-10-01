@@ -1,6 +1,6 @@
 # Laser Cutting
 - [powerpoint slide](06_laser%20cutting.pdf)
-- [Lecture video](https://vimeo.com/user115623250/review/428893041/c874fe7d7a)
+- [Lecture video](https://vimeo.com/428893041)
 - [Tutorial video (Group 2)](https://vimeo.com/user115623250/review/428893226/d2a13f4099)
 
 ## Reference
