@@ -1,7 +1,7 @@
 # Digital Fabrication & Prototyping Fundamentals
 **Announcements**
 
-No class on Mon 6 Jan and Fri 10 Jan 2020 (e-learning week). Please use the time to complete your outstanding assignments and update the documentation on your website. I will be available for consultation during the week (drop me an email).
+Welcome to the Digital Fabrication & Prototyping Fundamentals Poly-Wide Elective.
 
 **Module Aims**
 
