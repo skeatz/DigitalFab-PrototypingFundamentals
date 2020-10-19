@@ -51,4 +51,8 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *3. [Project Samples](http://academy.cba.mit.edu/classes/project_development/index.html)*
 
-*4. [Class](class/2020-S1/readme.md)*
+*4. Class*
+
+    - [AY2020 Sem 1 FT02](class/2020-S1/readme.md)
+    
+    - [AY2020 Sem 2 FT03](class/2020-S2/README.md)
