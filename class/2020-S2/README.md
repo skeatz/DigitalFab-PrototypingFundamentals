@@ -1,10 +1,10 @@
 ## FT/03 - Personal Websites
 
-- [Jovan Peh]()
+- [Jovan Peh](https://jovan66465.github.io/DFAB_1914157/)
 
-- [Tay Cheng Yee]()
+- [Tay Cheng Yee](http://chengyee.github.io/ep1000/)
 
-- [Jack Gao]()
+- [Jack Gao](https://gaoshengyuanjack.github.io/ep1000-jackgao/)
 
 - [Anil Shah]()
 
@@ -16,11 +16,11 @@
 
 - [Disney Chua]()
 
-- [Collin Gan]()
+- [Collin Gan](https://collingan.github.io/Collin-Gan/)
 
 - [Choong Zu Hao]()
 
-- [Lim Jia Le]()
+- [Lim Jia Le](https://github.com/jetfawtan/my-first-website)
 
 - [Hoh Hao Yu]()
 
