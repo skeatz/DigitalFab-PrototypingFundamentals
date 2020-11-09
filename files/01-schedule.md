@@ -5,11 +5,11 @@ AY2020/2021 S2 Schedule
 
 | Week | Date | Topic | Remarks |
 |:----:|:----:|-------|---------|
-| 01 | 19/10/20 | Introduction, Fablab Safety, Tools |
-| 02 | 26/10/20 | Software tools, HTML & CSS, Website | 
-| 03 | 02/11/20 | Personal website development, Markdown |
-| 04 | 09/11/20 | Computer Graphics, Computer Aided Design | Deepavali 14 Nov |
-| 05 | 16/11/20 | 2D Drawing and Modelling  |
+| 01 | 19/10/20 | [Introduction, Fablab Safety, Tools](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/02-intro_safety.html) |
+| 02 | 26/10/20 | [Software tools, HTML & CSS, Website](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/03-projmgmt.html) | 
+| 03 | 02/11/20 | [Personal website development, Markdown](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/03-projmgmt.html) |
+| 04 | 09/11/20 | [Computer Graphics, Computer Aided Design](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/04-cad.html) | Deepavali 14 Nov |
+| 05 | 16/11/20 | [2D Drawing and Modelling](https://skeatz.github.io/DigitalFab-PrototypingFundamentals/files/04-cad.html) |
 | 06 | 23/11/20 | 3D Modelling |
 | 07 | 30/11/20 | 3D Printing |
 | 08 | 07/12/20 | Computer Controlled Cutting | MST week |
