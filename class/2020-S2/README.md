@@ -14,7 +14,7 @@
 
 - [Teo Qi Kai]()
 
-- [Disney Chua]()
+- [Disney Chua](https://ugwp.github.io/EP1000-ChuaYueSiangDisney/)
 
 - [Collin Gan](https://collingan.github.io/Collin-Gan/)
 
