@@ -33,6 +33,7 @@
       * [Fusion 360 for Absolute Beginners](https://www.youtube.com/watch?v=qvrHuaHhqHI)
       * [How to add Constraints](https://www.youtube.com/watch?v=BGwBZJ14KHQ&list=PLrZ2zKOtC_-DR2ZkMaK3YthYLErPxCnT-&index=18)
       * [Understanding Bodies & Components](https://productdesignonline.com/tips-and-tricks/understanding-bodies-and-components-fusion-360-rule-1/)
+      * [Assemblies and Joints](https://www.youtube.com/watch?v=t41QmQszcbE)
     * [Fusion 360 Exercises](https://www.youtube.com/channel/UC5jIedWB0-o9Zq0kZPmHeEw/videos)
     * [Fusion 360 Practice Exercises](https://en.calameo.com/read/004987257fab6b0564037)
     * [Practice Exercises for Engineering Drawing](https://www.researchgate.net/publication/335222697_PRACTICE_PROBLEMS_FOR_ENGINEERING_DRAWING_I)
