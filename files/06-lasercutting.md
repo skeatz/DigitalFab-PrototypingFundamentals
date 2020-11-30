@@ -25,3 +25,6 @@
   * Your design must be parametric
   * Parts should fit together without any glue or tape
   * Assemble your press-fit kit
+
+## Worksheet
+- [Lasercut Box worksheet](03_Laser Cutting_3D Cube worksheet.pdf)
