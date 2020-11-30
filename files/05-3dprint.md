@@ -150,7 +150,7 @@
 * Bed Adhesion: none/skirt (preferred), brim (if required), raft (last resort)
 
 ### Worksheet
-* [Introduction to 3D printing](05 3D Printed Tool.pdf)
+* [Introduction to 3D printing](3d-printed-tool.pdf)
 
 ### Assignment
 * Group: 
