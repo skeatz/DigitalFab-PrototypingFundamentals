@@ -27,4 +27,4 @@
   * Assemble your press-fit kit
 
 ## Worksheet
-- [Lasercut Box worksheet](03_Laser Cutting_3D Cube worksheet.pdf)
+- [Lasercut Box worksheet](lasercut-cube-worksheet.pdf)
