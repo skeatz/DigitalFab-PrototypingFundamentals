@@ -1,27 +1,41 @@
-## FT/03 - Personal Websites
+## EL/EP1000/FT/03
 
-- [Jovan Peh](https://jovan66465.github.io/DFAB_1914157/)
+| Name | Website | Slide | Video |
+| ---- | ------- | ----- | ----- |
+| Jovan Peh | https://jovan66465.github.io/DFAB_1914157/ |
+| Tay Cheng Yee | http://chengyee.github.io/ep1000/ |
+| Jack Gao | https://gaoshengyuanjack.github.io/ep1000-jackgao/ |
+| Anil Shah | NIL |
+| Rooban G Tito | NIL |
+| Boo Han Wei | NIL |
+| Teo Qi Kai | NIL |
+| Disney Chua | https://ugwp.github.io/css2/ |
+| Collin Gan | https://collingan.github.io/Collin-Gan/ |
+| Choong Zu Hao | NIL |
+| Lim Jia Le | https://github.com/jetfawtan/my-first-website |
+| Hoh Hao Yu | NIL |
+| Wang Chulong | NIL |
 
-- [Tay Cheng Yee](http://chengyee.github.io/ep1000/)
+### Documentation Status
 
-- [Jack Gao](https://gaoshengyuanjack.github.io/ep1000-jackgao/)
+| Name | Website | Safety Qz | WebDev | CAD | 3DPrint | LaserCut | EmbPrg | FProj |
+| ---- | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
+| Jovan Peh | M | - | - | (G) | U | - |
+| Tay Cheng Yee | M | - | - | - | - |
+| Jack Gao | U | - | - | - | - | - |
+| Anil Shah | NIL |
+| Rooban G Tito | NIL |
+| Boo Han Wei | NIL |
+| Teo Qi Kai | NIL |
+| Disney Chua | U | U | - | - | - | - |
+| Collin Gan | U | - | - | - | - | - |
+| Choong Zu Hao | NIL |
+| Lim Jia Le | fix link | - | - | - | - | - |
+| Hoh Hao Yu | NIL |
+| Wang Chulong | NIL |
 
-- [Anil Shah]()
-
-- [Rooban G Tito]()
-
-- [Boo Han Wei]()
-
-- [Teo Qi Kai]()
-
-- [Disney Chua](https://ugwp.github.io/EP1000-ChuaYueSiangDisney/)
-
-- [Collin Gan](https://collingan.github.io/Collin-Gan/)
-
-- [Choong Zu Hao]()
-
-- [Lim Jia Le](https://github.com/jetfawtan/my-first-website)
-
-- [Hoh Hao Yu]()
-
-- [Wang Chulong]()
+**Legend**
+- **U** - below expectations<br>
+- **M** - met minimum expectations<br>
+- **G** - good<br>
+- **E** - excellent<br>
