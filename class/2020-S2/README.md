@@ -39,3 +39,7 @@
 - **M** - met minimum expectations<br>
 - **G** - good<br>
 - **E** - excellent<br>
+
+### Examples (Past Years)
+- [Cheryl](http://chwnzyl.github.io/DFAB/home)
+- [Gabriel](https://gabriel-as.github.io/EP1000-SP/main.html)
