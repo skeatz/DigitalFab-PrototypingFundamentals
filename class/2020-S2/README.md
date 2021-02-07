@@ -8,7 +8,7 @@
 | Anil Shah | NIL |
 | Rooban G Tito | NIL |
 | Boo Han Wei | NIL |
-| Teo Qi Kai | NIL |
+| Teo Qi Kai | http://TeoQiKai.github.io |
 | Disney Chua | https://ugwp.github.io/css2/ , https://disneychua.github.io/Disney-CHua/ |
 | Collin Gan | https://collingan.github.io/Collin-Gan/ |
 | Choong Zu Hao | NIL |
