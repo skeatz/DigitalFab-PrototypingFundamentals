@@ -2,17 +2,17 @@
 
 | Name | Website | Slide | Video |
 | ---- | ------- | ----- | ----- |
-| Jovan Peh | https://jovan66465.github.io/DFAB_1914157/ |
-| Tay Cheng Yee | http://chengyee.github.io/ep1000/ |
-| Jack Gao | https://gaoshengyuanjack.github.io/ep1000-jackgao/ |
+| Jovan Peh | [https://jovan66465.github.io/DFAB_1914157/](https://jovan66465.github.io/DFAB_1914157/) |
+| Tay Cheng Yee | [http://chengyee.github.io/ep1000/](http://chengyee.github.io/ep1000/) |
+| Jack Gao | [https://gaoshengyuanjack.github.io/ep1000-jackgao/](https://gaoshengyuanjack.github.io/ep1000-jackgao/) |
 | Anil Shah | NIL |
 | Rooban G Tito | NIL |
 | Boo Han Wei | NIL |
-| Teo Qi Kai | http://TeoQiKai.github.io |
-| Disney Chua | https://disneychua.github.io/Disney-CHua/ |
-| Collin Gan | https://collingan.github.io/Collin-Gan/ |
+| Teo Qi Kai | [http://TeoQiKai.github.io](http://TeoQiKai.github.io) |
+| Disney Chua | [https://disneychua.github.io/Disney-CHua/](https://disneychua.github.io/Disney-CHua/) |
+| Collin Gan | [https://collingan.github.io/Collin-Gan/](https://collingan.github.io/Collin-Gan/) |
 | Choong Zu Hao | NIL |
-| Lim Jia Le | https://github.com/jetfawtan/my-first-website |
+| Lim Jia Le | [https://github.com/jetfawtan/my-first-website](https://github.com/jetfawtan/my-first-website) |
 | Hoh Hao Yu | NIL |
 | Wang Chulong | NIL |
 
