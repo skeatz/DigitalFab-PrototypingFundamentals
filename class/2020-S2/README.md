@@ -12,7 +12,7 @@
 | Disney Chua | [Https://disneychua123.GitHub.io/w/](Https://disneychua123.GitHub.io/w/) |
 | Collin Gan | [https://collingan.github.io/Collin-Gan/](https://collingan.github.io/Collin-Gan/) |
 | Choong Zu Hao | NIL |
-| Lim Jia Le | [https://github.com/jetfawtan/my-first-website](https://github.com/jetfawtan/my-first-website) |
+| Lim Jia Le | [https://jetfawtan.github.io/my-first-website/](https://jetfawtan.github.io/my-first-website/) |
 | Hoh Hao Yu | NIL |
 | Wang Chulong | NIL |
 
