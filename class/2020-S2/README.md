@@ -2,17 +2,17 @@
 
 | Name | Website | Slide | Video |
 | ---- | ------- | ----- | ----- |
-| Jovan Peh | [https://jovan66465.github.io/DFAB_1914157/](https://jovan66465.github.io/DFAB_1914157/) |
-| Tay Cheng Yee | [http://chengyee.github.io/ep1000/](http://chengyee.github.io/ep1000/) |
-| Jack Gao | [https://gaoshengyuanjack.github.io/ep1000-jackgao/](https://gaoshengyuanjack.github.io/ep1000-jackgao/) |
+| Jovan Peh | [https://jovan66465.github.io/DFAB_1914157/](https://jovan66465.github.io/DFAB_1914157/) | [slide](https://github.com/jovan66465/DFAB_1914157/blob/main/pics/projectposter.png) | [video]
+| Tay Cheng Yee | [http://chengyee.github.io/ep1000/](http://chengyee.github.io/ep1000/) | [slide] | [video]
+| Jack Gao | [https://gaoshengyuanjack.github.io/ep1000-jackgao/](https://gaoshengyuanjack.github.io/ep1000-jackgao/) | [slide](https://docs.google.com/presentation/d/1Yu57zoK7tsa2V47o5Xf-M6jEp85uxD6j372LhHmbF8U/edit#slide=id.p) | [video](https://www.youtube.com/watch?v=KM8nBzfPcBk)
 | Anil Shah | NIL |
 | Rooban G Tito | NIL |
 | Boo Han Wei | NIL |
-| Teo Qi Kai | [http://TeoQiKai.github.io](http://TeoQiKai.github.io) |
-| Disney Chua | [Https://disneychua123.GitHub.io/w/](Https://disneychua123.GitHub.io/w/) |
-| Collin Gan | [https://collingan.github.io/Collin-Gan/](https://collingan.github.io/Collin-Gan/) |
+| Teo Qi Kai | [http://TeoQiKai.github.io](http://TeoQiKai.github.io) | [slide] | [video]
+| Disney Chua | [Https://disneychua123.GitHub.io/w/](Https://disneychua123.GitHub.io/w/) | [slide] | [video]
+| Collin Gan | [https://collingan.github.io/Collin-Gan/](https://collingan.github.io/Collin-Gan/) | [slide](https://collingan.github.io/Collin-Gan/09-finalmoduleproject.html) | [video](https://youtu.be/tSXSdP_Ilck)
 | Choong Zu Hao | NIL |
-| Lim Jia Le | [https://jetfawtan.github.io/my-first-website/](https://jetfawtan.github.io/my-first-website/) |
+| Lim Jia Le | [https://jetfawtan.github.io/my-first-website/](https://jetfawtan.github.io/my-first-website/) | [slide](https://jetfawtan.github.io/my-first-website/09-FinalModuleProjectDocument.html) | [video](https://youtu.be/oLeB-H7jUlo)
 | Hoh Hao Yu | NIL |
 | Wang Chulong | NIL |
 
