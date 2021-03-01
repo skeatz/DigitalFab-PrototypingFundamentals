@@ -2,8 +2,8 @@
 
 | Name | Website | Slide | Video |
 | ---- | ------- | ----- | ----- |
-| Jovan Peh | [https://jovan66465.github.io/DFAB_1914157/](https://jovan66465.github.io/DFAB_1914157/) | [slide](https://github.com/jovan66465/DFAB_1914157/blob/main/pics/projectposter.png) | [video]
-| Tay Cheng Yee | [http://chengyee.github.io/ep1000/](http://chengyee.github.io/ep1000/) | [slide] | [video]
+| Jovan Peh | [https://jovan66465.github.io/DFAB_1914157/](https://jovan66465.github.io/DFAB_1914157/) | [slide](https://github.com/jovan66465/DFAB_1914157/blob/main/pics/projectposter.png) | [video](https://www.youtube.com/watch?v=dkUfKtopiSA&feature=youtu.be)
+| Tay Cheng Yee | [http://chengyee.github.io/ep1000/](http://chengyee.github.io/ep1000/) | [slide](https://i.ibb.co/f8G1T7F/Capture.png) | [video](https://drive.google.com/file/d/1hmsBVthyBlVpQpHqMeHMHt4hIYJBGOTS/view)
 | Jack Gao | [https://gaoshengyuanjack.github.io/ep1000-jackgao/](https://gaoshengyuanjack.github.io/ep1000-jackgao/) | [slide](https://docs.google.com/presentation/d/1Yu57zoK7tsa2V47o5Xf-M6jEp85uxD6j372LhHmbF8U/edit#slide=id.p) | [video](https://www.youtube.com/watch?v=KM8nBzfPcBk)
 | Anil Shah | NIL |
 | Rooban G Tito | NIL |
