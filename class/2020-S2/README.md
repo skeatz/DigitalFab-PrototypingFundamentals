@@ -10,7 +10,7 @@
 | Boo Han Wei | NIL |
 | Teo Qi Kai | [http://TeoQiKai.github.io](http://TeoQiKai.github.io) | [slide] | [video]
 | Disney Chua | [Https://disneychua123.GitHub.io/w/](Https://disneychua123.GitHub.io/w/) | [slide] | [video]
-| Collin Gan | [https://collingan.github.io/Collin-Gan/](https://collingan.github.io/Collin-Gan/) | [slide](https://collingan.github.io/Collin-Gan/09-finalmoduleproject.html) | [video](https://youtu.be/tSXSdP_Ilck)
+| Collin Gan | [https://collingan.github.io/Collin-Gan/](https://collingan.github.io/Collin-Gan/) | [slide](https://collingan.github.io/Collin-Gan/Screenshot%20(128).png) | [video](https://youtu.be/tSXSdP_Ilck)
 | Choong Zu Hao | NIL |
 | Lim Jia Le | [https://jetfawtan.github.io/my-first-website/](https://jetfawtan.github.io/my-first-website/) | [slide](https://jetfawtan.github.io/my-first-website/09-FinalModuleProjectDocument.html) | [video](https://youtu.be/oLeB-H7jUlo)
 | Hoh Hao Yu | NIL |
