@@ -16,7 +16,7 @@ AY2020/2021 S2 Schedule
 | 7     | 31 May 2021 |3D Printing      ||
 | 8     | 7 Jun 2021  |  ||
 | 9     | 14 Jun 2021 |Mid-term break ||
-| 10    | 21 Jun 2021 |  | |
+| 10    | 21 Jun 2021 |  ||
 | 11    | 28 Jun 2021 |Computer Controlled Cutting ||
 | 12    | 5 Jul 2021  |Electronics, Embedded programming    ||
 | 13    | 12 Jul 2021 |Basic output devices     ||

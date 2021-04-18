@@ -13,6 +13,9 @@ Introduction to Digital Fabrication, Safety & Tools
    * Fablab SP [Safety notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1539071_1)
    * Fablab SP [Safety assessment](https://esp.sp.edu.sg/webapps/assessment/take/launchAssessment.jsp?course_id=_51997_1&content_id=_1539122_1&mode=view)
 3. [Lab & Student Agreements](agreement.md)
+- Make a copy of the student agreement
+- Add your name to it and include it in your website (About page)
+- By adding the student agreement to your website, it means that you have agreed to the terms and conditions stated in this agreement 
 
 4. Tools
    * Hand tools

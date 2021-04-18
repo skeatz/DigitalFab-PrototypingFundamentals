@@ -1,6 +1,6 @@
 **Fab Academy Student Agreement**
 
-*Fablab SP is responsible for:*
+**Fablab SP is responsible for:**
 
 - Teaching principles and practices of digital fabrication
 - Arranging lectures, recitations, meetings, and events for the class
@@ -13,7 +13,9 @@
 - Publicizing the program
 - Promoting a respectful environment free of harassment and discrimination
 
-*I am a EP1000 Digital Fabrication & Prototyping Fundamentals student, responsible for:*
+<p>
+
+**I am an EP1000 Digital Fabrication & Prototyping Fundamentals student, responsible for:**
 
 - Attending class lectures and participating in reviews
 - Developing and documenting projects assigned to introduce and demonstrate skills
