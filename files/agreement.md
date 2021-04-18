@@ -13,7 +13,7 @@
 - Publicizing the program
 - Promoting a respectful environment free of harassment and discrimination
 
-<p>
+<br>
 
 **I am an EP1000 Digital Fabrication & Prototyping Fundamentals student, responsible for:**
 
