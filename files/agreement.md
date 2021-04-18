@@ -10,8 +10,6 @@
 - Supervising class preparation
 - Reviewing prospective students, instructors, and labs
 - Providing central staff and infrastructure for students, instructors, and labs
-- Fund-raising for costs not covered by student tuition
-- Managing and reporting on the program's finances, results, and impacts
 - Publicizing the program
 - Promoting a respectful environment free of harassment and discrimination
 
@@ -23,7 +21,6 @@
 - Working safely
 - Leaving workspaces in the same (or better) condition than I found them
 - Participating in the upkeep of my lab
-- Ensuring that my tuition to cover local and central class costs is covered
 - Promoting a respectful environment free of harassment and discrimination
 
 Signed by committing this file in my repository,
