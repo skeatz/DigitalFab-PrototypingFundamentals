@@ -12,10 +12,12 @@ Introduction to Digital Fabrication, Safety & Tools
 2. Fablab & Workshop Safety, Risk Assessment
    * Fablab SP [Safety notes](https://esp.sp.edu.sg/webapps/blackboard/content/listContent.jsp?course_id=_51997_1&content_id=_1539071_1)
    * Fablab SP [Safety assessment](https://esp.sp.edu.sg/webapps/assessment/take/launchAssessment.jsp?course_id=_51997_1&content_id=_1539122_1&mode=view)
-3. Tools
+3. [Lab & Student Agreements](agreement.md)
+
+4. Tools
    * Hand tools
    * Power tools
-4. Tools Assignment
+5. Tools Assignment
    * Using only hand and/or power tools in the Fablab, make a small, portable smartphone stand out of cardboard, wood or acrylic.
    
    ![Tools assignment](../images/01_tools-assignment.png)
