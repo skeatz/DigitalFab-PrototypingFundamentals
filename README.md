@@ -57,4 +57,5 @@ Assessment will be based on exercises and projects through three in-course asses
 
 *4. Class*
 
+- [2020 Sem 1](class/2020-S1/readme.md)
 
