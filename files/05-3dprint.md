@@ -14,16 +14,16 @@
 * many others
 
 ### 3D Printing Hall of Fame
-* [Chuck Hull](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/)
-* [Scott Crump](https://www.computerhope.com/people/s_scott_crump.htm)
-* [Adrian Bowyer](https://reprap.org/wiki/About)
+* [Chuck Hull](http://www.cnn.com/2014/02/13/tech/innovation/the-night-i-invented-3d-printing-chuck-hall/), [3D Systems](https://www.3dsystems.com/)
+* [Scott Crump](https://www.computerhope.com/people/s_scott_crump.htm), [Stratasys](https://www.stratasys.com/)
+* [Adrian Bowyer](https://reprap.org/wiki/About), [RepRap](https://reprap.org/wiki/RepRap)
 
 ### [Materials](https://www.allthat3d.com/3d-printer-filament/)
-* PLA
-* ABS
-* PETG
-* Nylon
-* TPU
+* [PLA](https://www.simplify3d.com/support/materials-guide/pla/)
+* [ABS](https://www.simplify3d.com/support/materials-guide/abs/)
+* [PETG](https://www.simplify3d.com/support/materials-guide/petg/)
+* [Nylon](https://www.simplify3d.com/support/materials-guide/nylon/)
+* [TPU](https://www.simplify3d.com/support/materials-guide/flexible/)
 * HIPS
 * glass
 * ceramic
@@ -31,6 +31,8 @@
 * metals: aluminum, steel, titanium, etc
 * Food
 * concrete
+[Simplify3D materials guide](https://www.simplify3d.com/support/materials-guide/)
+[Materials comparison chart](https://www.simplify3d.com/support/materials-guide/properties-table/)
 
 ### [Constraints](http://www.3dbenchy.com/)
 * [failure](http://academy.cba.mit.edu/classes/scanning_printing/fail.jpg)
@@ -61,27 +63,40 @@
 * [polyjet](https://www.stratasys.com/polyjet-technology)
 * [cut sheets](http://www.mcortechnologies.com/)
 * [selective laser sintering](https://www.eos.info/systems_solutions/metal/systems_equipment) (SLS), selective laser melting (SLM)
-* electron beam melting (EBM)
+* [electron beam melting (EBM)](https://all3dp.com/2/electron-beam-melting-ebm-3d-printing-simply-explained/)
 
 ### Machines
 * [Ultimaker](https://ultimaker.com/)
 * [Makerbot](https://www.makerbot.com/)
 * [Prusa](https://www.prusa3d.com/), [parts](http://academy.cba.mit.edu/classes/scanning_printing/Prusa/index.html)
 * [Sindoh](http://3dprinter.sindoh.com/)
+* [Creality Ender3](https://www.creality.com/goods-detail/ender-3-v2-3d-printer?gclid=CjwKCAjw-qeFBhAsEiwA2G7Nl6Q6WYwEEthJc_bYTWT0S65BWohIdmUtDZx5C2GjFQvcZ27b1c-XjhoClOkQAvD_BwE)
 * [Formlabs](http://formlabs.com/), [parts](http://academy.cba.mit.edu/classes/scanning_printing/Form3/index.html)
 * [Objet](https://www.stratasys.com/3d-printers/objet260-connex3), [parts](http://academy.cba.mit.edu/classes/scanning_printing/C260/index.html)
 * [3D Systems](https://www.3dsystems.com/)
+* [Markforged](https://markforged.com/)
+* [3-in-1 3D Printers](https://all3dp.com/1/all-in-one-laser-3d-printer-scanner-cutter-engraver-cnc/)
 
 ### Service Bureaus
 * [Shapeways](https://www.shapeways.com/)
 * [iMaterialise](https://i.materialise.com/en)
 * [Sculpteo](https://www.sculpteo.com/en/)
 * [3ERP](https://www.3erp.com/)
+* Singapore
+  - [Zelta3D](https://www.zelta3d.com/) 
+  - [Creatz3D](https://creatz3d.com.sg/)
+  - [3D Matters](http://3dmatters.com.sg/)
 
 ### Materials Suppliers
 * [Proto-pasta](https://www.proto-pasta.com/)
 * [MatterHackers](https://www.matterhackers.com/)
 * [NinjaTek](https://ninjatek.com/)
+* Singapore
+  - [Deed3D](https://deed3d.com/)
+  - [3D Aura](https://3daura.com.sg/)
+  - [Kingly](https://www.kingly.sg/collections/3d-printer-filaments)
+  - [SKP](https://www.skp.com.sg/3d-printing-all)
+  - [Ultimaker Supplies](https://ultimakersupplies.com.sg/3d-printer-filament-singapore/)
 
 ### File Formats
 * [STL](https://all3dp.com/what-is-stl-file-format-extension-3d-printing/)
