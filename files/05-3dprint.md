@@ -32,8 +32,7 @@
 * Food
 * concrete
 
-[Simplify3D materials guide](https://www.simplify3d.com/support/materials-guide/)
-
+[Simplify3D materials guide](https://www.simplify3d.com/support/materials-guide/)<br>
 [Materials comparison chart](https://www.simplify3d.com/support/materials-guide/properties-table/)
 
 ### [Constraints](http://www.3dbenchy.com/)
