@@ -23,6 +23,9 @@ Assessment will be based on exercises and projects through three in-course asses
 | 2	|CA2 |Fablab (Digital Fabrication) Skills	|40% |
 | 3	|CA3 |Summative Project	|40% |
 
+- [Marking Scheme](files/EP1000_Marking_Scheme_21s.pdf)
+
+- [CA1 Assessment - details](files/ep1000_assessment.pdf)
 
 **Schedule & Notes**
 
