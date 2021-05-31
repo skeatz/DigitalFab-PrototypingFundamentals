@@ -6,6 +6,14 @@
 * [Arduino hardware](ep1000_ArduinoHardware.pdf)
 * [Arduino programming](ep1000_ArduinoProgramming.pdf)
 
+## RD Notes
+
+- [Introduction to Electronics](https://rdorville.github.io/EP1000/Electronics/electronics.html)
+- [Introduction to Arduino System](https://rdorville.github.io/EP1000/arduino/Embedded_Programming_with_Arduino.pdf)
+- [Introduction to Programming the Microcontroller](https://rdorville.github.io/EP1000/arduino/arduinoProgramming.html)
+- [Analog I/O](https://rdorville.github.io/EP1000/arduino/arduinoAnalogIO.html)
+- [Arduino Libraries](https://rdorville.github.io/EP1000/arduino/libraries.html)
+
 ## Videos
 * [L14: Intro to Arduino Programming](https://vimeo.com/433836377)
 * [L15: More Arduino Programming](https://vimeo.com/user115623250/review/435401451/c6bfa48960)
