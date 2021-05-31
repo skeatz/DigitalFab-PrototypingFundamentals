@@ -6,7 +6,7 @@
     * 3D printed part(s)
     * Laser cut part(s)
     * an embedded microntroller (e.g. arduino)
-    * input and/or output device(s) that interacts with the user
+    * input and output devices that interacts with the user
     * embedded program
   * Your project must include
     * all original design & source code files
