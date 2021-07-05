@@ -27,6 +27,9 @@ Assessment will be based on exercises and projects through three in-course asses
 - [Marking Scheme](files/EP1000_Marking_Scheme_21s.pdf)<br>
 - [CA1 Assessment - details](files/ep1000_assessment.pdf)
 
+**Selected Assignments**
+- [Term 2 Wk1-2: 3D Printing & Laser Cutting Practicals](files/ep1000-T2-practicals_wk1-2.pdf)
+
 **Schedule & Notes**
 
 *1. [Course Schedule](files/01-schedule.md)*
