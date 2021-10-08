@@ -7,29 +7,28 @@ AY2020/2021 S2 Schedule
 
 | **Week**  | **Date**   | **Topic** |  **Remarks** |
 |:-----:|:------------|--------|--------|
-| 1     | 19 Apr 2021 |Introduction, Fablab Safety, Tools   ||
-| 2     | 26 Apr 2021 |Project Management, HTML & CSS, Website Development  |1 May 2021 - Labour Day|
-| 3     | 3 May 2021  |Markdown, Version Control   ||
-| 4     | 10 May 2021  |Computer Graphics, Computer Aided Design |13 May 2021 - Hari Raya Puasa|
-| 5     | 17 May 2021 |2D Drawing and Modeling     ||
-| 6     | 24 May 2021 |3D Modeling     |26 May 2021 - Vesak Day|
-| 7     | 31 May 2021 |3D Printing      ||
-| 8     | 7 Jun 2021  |  ||
-| 9     | 14 Jun 2021 |Mid-term break ||
-| 10    | 21 Jun 2021 |  ||
-| 11    | 28 Jun 2021 |Computer Controlled Cutting ||
-| 12    | 5 Jul 2021  |Electronics, Embedded programming    ||
-| 13    | 12 Jul 2021 |Basic output devices     ||
-| 14    | 19 Jul 2021 |Basic input devices  |20 Jul 2021 - Hari Raya Haji|
-| 15    | 26 Jul 2021 |Module Project   ||
-| 16    | 2 Aug 2021  |Module Project   ||
-| 17    | 9 Aug 2021  |Module Project   |9 Aug 2021 - National Day|
-| 18    | 16 Aug 2021 |Project Presentation & Demonstration  ||
+| 1     | 18 Oct 2021 | Introduction, Fablab Safety, Tools |
+| 2     | 25 Oct 2021 | Project Management, HTML & CSS, Website Development |
+| 3     | 1 Nov 2021  | Markdown, Version Control | 4 Nov - Diwali |
+| 4     | 8 Nov 2021  | Computer Graphics, Computer Aided Design |
+| 5     | 15 Nov 2021 | 2D Drawing and Modeling |
+| 6     | 22 Nov 2021 | 3D Modeling |
+| 7     | 29 Nov 2021 | 3D Printing |
+| 8     | 6 Dec 2021  | Computer Controlled Cutting |
+| 9     | 13 Dec 2021 | Mid-term break |
+| 10    | 20 Dec 2021 | Mid-term break | 25 Dec - Christmas Day |
+| 11    | 27 Dec 2021 | Mid-term break | 1 Jan - New Year Day |
+| 12    | 3 Jan 2022 | Electronics, Embedded programming |
+| 13    | 10 Jan 2022 | Basic output devices |
+| 14    | 17 Jan 2022 | Basic input devices |
+| 15    | 24 Jan 2022 | Module Project |
+| 16    | 31 Jan 2022 | Module Project | 1-2 Feb - Chinese New Year |
+| 17    | 7 Feb 2022  | Module Project |
+| 18    | 14 Feb 2022 | Project Presentation & Demonstration |
 
 
 ## Public Holidays
-* 1 May 2021 - Labour Day
-* 13 May 2021 - Hari Raya Puasa
-* 26 May 2021 - Vesak Day
-* 20 Jul 2021 - Hari Raya Haji
-* 9 Aug 2021 - National Day
+* 4 Nov 2021 - Diwali
+* 25 Dec 2021 - Christmas Day
+* 1 Jan 2022 - New Year Day
+* 1-2 Feb 2022 - Chinese New Year
