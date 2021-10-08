@@ -1,9 +1,7 @@
-AY2020/2021 S2 Schedule
-
 # EP1000 Digital Fabrication & Prototyping Fundamentals
 ## Course Schedule
 
-**Session 21/22 Semester 1**
+**AY2021/2022 Semester 2**
 
 | **Week**  | **Date**   | **Topic** |  **Remarks** |
 |:-----:|:------------|--------|--------|
