@@ -12,7 +12,7 @@
 | 5     | 15 Nov 2021 | 2D Drawing and Modeling |
 | 6     | 22 Nov 2021 | 3D Modeling |
 | 7     | 29 Nov 2021 | 3D Printing |
-| 8     | 6 Dec 2021  | Computer Controlled Cutting |
+| 8     | 6 Dec 2021  | Computer Controlled Cutting | MST Week (classes as per normal) |
 | 9     | 13 Dec 2021 | Mid-term break |
 | 10    | 20 Dec 2021 | Mid-term break | 25 Dec - Christmas Day |
 | 11    | 27 Dec 2021 | Mid-term break | 1 Jan - New Year Day |
