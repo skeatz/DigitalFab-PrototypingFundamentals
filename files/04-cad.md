@@ -55,6 +55,18 @@
     * [Thingiverse - Customizable](https://www.thingiverse.com/search?q=customizable&dwh=295dbaef526c250)
   * [SketchUp](https://www.sketchup.com/)
   * [FreeCAD](https://www.freecadweb.org/)
+    - [Getting Started](https://www.youtube.com/playlist?list=PLxa9m2nC6N924jFUOYRECQUMm9xl4_jUI)
+    - [Creating Sketch Elements](https://www.youtube.com/watch?v=PlLH0JtEZps)
+    - [Freecad Lessons for Beginners](https://www.youtube.com/playlist?list=PL6fZ68Cq3L8k0JhxnIVjZQN26cn9idJrj)
+    - [Learn the Basics in 1 Hour](https://www.scan2cad.com/cad/freecad-basics/)
+    - [Chess rook](https://www.youtube.com/watch?v=s-2PAjQyQVY)
+    - [Freecad 3D Printing](https://all3dp.com/1/freecad-tutorial-3d-printing/)
+    - [Nametag](https://www.youtube.com/watch?v=h37J23KD2C8)
+    - [Pawn](https://www.youtube.com/watch?v=xWG05uh2sxM)
+    - [Fidget Spinner](https://www.youtube.com/watch?v=SXnXeENlwt8)
+    - [Fidget spinner](https://www.youtube.com/watch?v=fnrcZQIJi1M)
+    - [Logo](https://www.youtube.com/watch?v=yVmtAP1KCfY)
+    - [Quick Guide - 5 mins](https://www.youtube.com/watch?v=d_o6IzcLHvk)
   * [Blender](https://www.blender.org/)
   * [Sculptris](https://pixologic.com/sculptris/)
 * **(Interchange) File Formats**
@@ -72,6 +84,7 @@
   * [HTML5](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Video_and_audio_content)
     * Encoding: [handbrake](https://handbrake.fr/), [MiroVideoConverter](http://www.mirovideoconverter.com/), [ffmpeg video conversion](http://academy.cba.mit.edu/classes/computer_design/video.html)
   
+
 **Assignment:**
 * Model (2D raster, vector, 3D) a possible final project.
   * Document use of 2D raster software: scale, crop, resize
