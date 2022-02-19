@@ -43,10 +43,12 @@
 * [microcontrollers](https://interestingengineering.com/what-are-microcontrollers-and-why-should-you-care)
   * [arduino.cc](https://www.arduino.cc/)
   * [Arduino Language Reference](https://www.arduino.cc/reference/en/)
-  * [Introduction to Arduino programming](http://www.brunel.ac.uk/~emstaam/material/bit/Introduction_MictoControllers.pdf)
   * [Arduino Beginner's Workshop](https://core-electronics.com.au/tutorials/arduino-workshop-for-beginners.html)
-  * [Tutorialspoint Arduino Tutorial](https://www.tutorialspoint.com/arduino/index.htm)
   * [Adafruit Arduino Getting Started](https://learn.adafruit.com/lesson-0-getting-started/boards-and-ports)
+  * [Arduino Getting Started](https://arduinogetstarted.com/arduino-tutorials)
+  * [Sparkfun Arduino Getting Started](https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32)
+  * [Introduction to Arduino programming](http://www.brunel.ac.uk/~emstaam/material/bit/Introduction_MictoControllers.pdf)
+  * [Tutorialspoint Arduino Tutorial](https://www.tutorialspoint.com/arduino/index.htm)
   * [Introduction to Arduino Programming (NTU)](https://www.ntu.edu.sg/home/ehchua/programming/arduino/Arduino.html)
   * [Arduino Lessons (video)](https://www.youtube.com/watch?v=d8_xXNcGYgo&list=PLGs0VKk2DiYx6CMdOQR_hmJ2NbB4mZQn-)
   * [Arduino Notes](https://www.4tronix.co.uk/arduino/ArduinoLearning.pdf)
@@ -62,8 +64,8 @@
 ## Circuit Simulators
 
 - [Tinkercad Circuits](https://www.tinkercad.com/)
+- [Wokwi](https://wokwi.com/)
 - [Circuitlab](https://www.circuitlab.com/)
-
 
 ## Sample Arduino Code
 * [Blink led](arduino_blink.ino)
